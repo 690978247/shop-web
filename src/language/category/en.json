@@ -1,0 +1,1400 @@
+{
+  "list": [
+    {
+      "icon": "icon-a-1",
+      "name": "Clothing",
+      "categoryID": "1016510166312",
+      "children": [
+        {
+          "name": "Women's Clothing",
+          "categoryID": "10166",
+          "children": [
+            {
+              "name": "Women's Jeans",
+              "categoryID": "1031869"
+            },
+            {
+              "name": "Dress",
+              "categoryID": "1031910"
+            },
+            {
+              "name": "Skirt",
+              "categoryID": "1031912"
+            },
+            {
+              "name": "Blouse",
+              "categoryID": "1031918"
+            },
+            {
+              "name": "Women's T-shirt",
+              "categoryID": "1031919"
+            },
+            {
+              "name": "Small Vest And Suspenders And Tube Top",
+              "categoryID": "1031920"
+            },
+            {
+              "name": "Women's Hoodie And Sweater",
+              "categoryID": "1037021"
+            },
+            {
+              "name": "Women's Leather",
+              "categoryID": "1037019"
+            },
+            {
+              "name": "Small Suit",
+              "categoryID": "1037020"
+            },
+            {
+              "name": "Fashion Casual Suit",
+              "categoryID": "1048256"
+            },
+            {
+              "name": "Women's Vest",
+              "categoryID": "1036617"
+            },
+            {
+              "name": "Women's Sweater",
+              "categoryID": "125746001"
+            },
+            {
+              "name": "Women's Casual Pants",
+              "categoryID": "125748001"
+            },
+            {
+              "name": "Lace Shirt",
+              "categoryID": "1048182"
+            },
+            {
+              "name": "Women's Tweed Coat",
+              "categoryID": "125420001"
+            },
+            {
+              "name": "Women's Jacket And Baseball Dress",
+              "categoryID": "125750002"
+            },
+            {
+              "name": "Maternity Clothing",
+              "categoryID": "122196004"
+            },
+            {
+              "name": "Wedding Dress And Dress And Cheongsam",
+              "categoryID": "125740002"
+            },
+            {
+              "name": "Women's Plus Size",
+              "categoryID": "127372010"
+            },
+            {
+              "name": "Women's Sun Protection Clothing",
+              "categoryID": "201195601"
+            },
+            {
+              "name": "Work And Tooling Uniform",
+              "categoryID": "201548401"
+            },
+            {
+              "name": "Stage Performance Clothing",
+              "categoryID": "201548501"
+            },
+            {
+              "name": "Couples Clothing",
+              "categoryID": "201548601"
+            },
+            {
+              "name": "Women's Professional Suit",
+              "categoryID": "201548801"
+            },
+            {
+              "name": "Women's Down Jacket",
+              "categoryID": "127360010"
+            },
+            {
+              "name": "Ladies Sweat Pants",
+              "categoryID": "201547109"
+            },
+            {
+              "name": "Women's Jumpsuit And Clothing",
+              "categoryID": "201325101"
+            },
+            {
+              "name": "Women's Cotton-padded Clothes",
+              "categoryID": "127420001"
+            },
+            {
+              "name": "Women's Denim Jacket",
+              "categoryID": "201560705"
+            },
+            {
+              "name": "Women's Shorts",
+              "categoryID": "201585902"
+            },
+            {
+              "name": "Women's Leggings",
+              "categoryID": "127380008"
+            },
+            {
+              "name": "Women's Sweater",
+              "categoryID": "127386001"
+            },
+            {
+              "name": "International National Costume",
+              "categoryID": "201158403"
+            },
+            {
+              "name": "Two-dimensional Animation Clothing And Accessories",
+              "categoryID": "201217707"
+            },
+            {
+              "name": "Women's Windbreaker",
+              "categoryID": "319"
+            },
+            {
+              "name": "Spice Girls Skinny Shirt",
+              "categoryID": "201723506"
+            },
+            {
+              "name": "Hanfu",
+              "categoryID": "202041302"
+            },
+            {
+              "name": "Fur",
+              "categoryID": "304"
+            },
+            {
+              "name": "Middle-aged And Elderly Women's Clothing",
+              "categoryID": "202025703"
+            }
+          ]
+        },
+        {
+          "name": "Menswear",
+          "categoryID": "10165",
+          "children": [
+            {
+              "name": "Men's Down Jacket",
+              "categoryID": "1034163"
+            },
+            {
+              "name": "Men's Jeans",
+              "categoryID": "1031888"
+            },
+            {
+              "name": "Men's Trousers",
+              "categoryID": "1031889"
+            },
+            {
+              "name": "Men's Casual Pants",
+              "categoryID": "1031890"
+            },
+            {
+              "name": "Men's Cotton-padded Jacket",
+              "categoryID": "1031892"
+            },
+            {
+              "name": "Men's Windbreaker",
+              "categoryID": "1031897"
+            },
+            {
+              "name": "Men's Hoodie",
+              "categoryID": "1036995"
+            },
+            {
+              "name": "Men's Beach Pants",
+              "categoryID": "1036996"
+            },
+            {
+              "name": "Zhongshan Suit",
+              "categoryID": "1042833"
+            },
+            {
+              "name": "Men's Polo Shirt",
+              "categoryID": "122232007"
+            },
+            {
+              "name": "Men's Leather",
+              "categoryID": "123694002"
+            },
+            {
+              "name": "Men's Coat",
+              "categoryID": "122194006"
+            },
+            {
+              "name": "Men's Sweater",
+              "categoryID": "123650006"
+            },
+            {
+              "name": "Men's Leisure Sports Suit",
+              "categoryID": "122238007"
+            },
+            {
+              "name": "Tooling And Uniform",
+              "categoryID": "124450001"
+            },
+            {
+              "name": "Men's Vest",
+              "categoryID": "122196008"
+            },
+            {
+              "name": "Men's Baseball Uniform",
+              "categoryID": "123688001"
+            },
+            {
+              "name": "Men's Suit",
+              "categoryID": "123694001"
+            },
+            {
+              "name": "Men's Sun Protection Clothing",
+              "categoryID": "127422009"
+            },
+            {
+              "name": "Men's Padded Pants",
+              "categoryID": "201559512"
+            },
+            {
+              "name": "Menswear Plus Size",
+              "categoryID": "201470102"
+            },
+            {
+              "name": "Anime Secondary Costume",
+              "categoryID": "201546513"
+            },
+            {
+              "name": "Men's Shorts",
+              "categoryID": "201561908"
+            },
+            {
+              "name": "Men's Sweat Pants",
+              "categoryID": "201465302"
+            },
+            {
+              "name": "Men's Leather Pants",
+              "categoryID": "127446001"
+            },
+            {
+              "name": "Men's Shirt",
+              "categoryID": "314"
+            },
+            {
+              "name": "Men's T-Shirt",
+              "categoryID": "315"
+            },
+            {
+              "name": "Men's Jacket",
+              "categoryID": "317"
+            }
+          ]
+        },
+        {
+          "name": "Underwear",
+          "categoryID": "312",
+          "children": [
+            {
+              "name": "Socks",
+              "categoryID": "1043349"
+            },
+            {
+              "name": "Garters",
+              "categoryID": "122528003"
+            },
+            {
+              "name": "Bra",
+              "categoryID": "124188007"
+            },
+            {
+              "name": "Ladies Panties",
+              "categoryID": "122450001"
+            },
+            {
+              "name": "Ice Silk Sleeves",
+              "categoryID": "122478003"
+            },
+            {
+              "name": "Body Shaping Underwear",
+              "categoryID": "122484001"
+            },
+            {
+              "name": "Thin Material Underwear",
+              "categoryID": "122450002"
+            },
+            {
+              "name": "Pajamas",
+              "categoryID": "122500001"
+            },
+            {
+              "name": "Thermal Underwear",
+              "categoryID": "122558002"
+            },
+            {
+              "name": "Stockings And Bottomed Socks",
+              "categoryID": "201909602"
+            },
+            {
+              "name": "Men's Underwear",
+              "categoryID": "201835213"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-2",
+      "name": "Shoes&Bags&Jewelry",
+      "categoryID": "1038378104295454",
+      "children": [
+        {
+          "name": "Clothing Accessories&Accessories",
+          "categoryID": "54",
+          "children": [
+            {
+              "name": "Apparel Accessories",
+              "categoryID": "1045423"
+            },
+            {
+              "name": "Jewelry Display Rack",
+              "categoryID": "1044138"
+            },
+            {
+              "name": "Earrings",
+              "categoryID": "122704002"
+            },
+            {
+              "name": "Clothing",
+              "categoryID": "122322004"
+            },
+            {
+              "name": "Necklace",
+              "categoryID": "122322005"
+            },
+            {
+              "name": "Bracelet",
+              "categoryID": "122706003"
+            },
+            {
+              "name": "Watch",
+              "categoryID": "124268003"
+            },
+            {
+              "name": "Piercing Jewelry",
+              "categoryID": "201231105"
+            },
+            {
+              "name": "Children's Jewelry",
+              "categoryID": "201149004"
+            },
+            {
+              "name": "Children's Hat And Scarf And Gloves And Accessories",
+              "categoryID": "201564422"
+            },
+            {
+              "name": "Jewelry Hanging Ornaments",
+              "categoryID": "201308926"
+            },
+            {
+              "name": "Hat And Turban",
+              "categoryID": "127464010"
+            },
+            {
+              "name": "Gloves And Sleeve",
+              "categoryID": "127484008"
+            },
+            {
+              "name": "Chest",
+              "categoryID": "201220505"
+            },
+            {
+              "name": "Scarf And Silk Scarf And Sunscreen",
+              "categoryID": "127508004"
+            },
+            {
+              "name": "Jewelry Set",
+              "categoryID": "1746"
+            },
+            {
+              "name": "Hair Accessories",
+              "categoryID": "1752"
+            },
+            {
+              "name": "Back Headwear",
+              "categoryID": "201228407"
+            },
+            {
+              "name": "Collar Fittings",
+              "categoryID": "127462009"
+            },
+            {
+              "name": "Mask",
+              "categoryID": "201152912"
+            },
+            {
+              "name": "Semi-finished Jewelry Accessories",
+              "categoryID": "201233908"
+            },
+            {
+              "name": "Glasses And Accessories",
+              "categoryID": "80"
+            }
+          ]
+        },
+        {
+          "name": "Luggage&Leather Goods",
+          "categoryID": "1042954",
+          "children": [
+            {
+              "name": "Suitcase",
+              "categoryID": "10283"
+            },
+            {
+              "name": "Mommy Bag",
+              "categoryID": "1043801"
+            },
+            {
+              "name": "Men's Bag",
+              "categoryID": "121658001"
+            },
+            {
+              "name": "Wallet",
+              "categoryID": "122228002"
+            },
+            {
+              "name": "Makeup Bags",
+              "categoryID": "125728001"
+            },
+            {
+              "name": "Travel Bag",
+              "categoryID": "122216001"
+            },
+            {
+              "name": "Ladies Bag",
+              "categoryID": "124016002"
+            },
+            {
+              "name": "Mobile Phone Bag",
+              "categoryID": "127406010"
+            },
+            {
+              "name": "Children's Bag",
+              "categoryID": "126128002"
+            },
+            {
+              "name": "Computer Bag",
+              "categoryID": "201548701"
+            },
+            {
+              "name": "Luggage Accessories",
+              "categoryID": "127278005"
+            },
+            {
+              "name": "Digital Bag",
+              "categoryID": "127398006"
+            },
+            {
+              "name": "Sports Bag",
+              "categoryID": "201545602"
+            },
+            {
+              "name": "Student Schoolbag",
+              "categoryID": "201551616"
+            },
+            {
+              "name": "Children's Leisure Bags",
+              "categoryID": "201556615"
+            },
+            {
+              "name": "Function Packet",
+              "categoryID": "201997401"
+            },
+            {
+              "name": "Backpack",
+              "categoryID": "201956604"
+            }
+          ]
+        },
+        {
+          "name": "Shoes",
+          "categoryID": "1038378",
+          "children": [
+            {
+              "name": "Shoe Accessories",
+              "categoryID": "125730003"
+            },
+            {
+              "name": "Children's Shoes And Baby Shoes",
+              "categoryID": "125386001"
+            },
+            {
+              "name": "Women's Shoes",
+              "categoryID": "125372002"
+            },
+            {
+              "name": "Home Shoes",
+              "categoryID": "125312003"
+            },
+            {
+              "name": "Men's Shoes",
+              "categoryID": "126506004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-3",
+      "name": "Outdoor Sports",
+      "categoryID": "18",
+      "children": [
+        {
+          "name": "Sports Outdoor",
+          "categoryID": "18",
+          "children": [
+            {
+              "name": "Basketball Supplies",
+              "categoryID": "1044810"
+            },
+            {
+              "name": "Badminton Tennis Supplies",
+              "categoryID": "1044819"
+            },
+            {
+              "name": "Table Tennis Supplies",
+              "categoryID": "1044825"
+            },
+            {
+              "name": "Wading Sports Goods",
+              "categoryID": "1044740"
+            },
+            {
+              "name": "Pedometer",
+              "categoryID": "1044780"
+            },
+            {
+              "name": "Ice Skates And Roller Skating And Skateboarding",
+              "categoryID": "1044794"
+            },
+            {
+              "name": "Yoga Supplies",
+              "categoryID": "1044713"
+            },
+            {
+              "name": "Billiards Supplies",
+              "categoryID": "1044642"
+            },
+            {
+              "name": "Fishing Supplies",
+              "categoryID": "1044658"
+            },
+            {
+              "name": "Martial Arts Uniforms",
+              "categoryID": "1048021"
+            },
+            {
+              "name": "Swimming Supplies",
+              "categoryID": "1048023"
+            },
+            {
+              "name": "Football Supplies",
+              "categoryID": "122226003"
+            },
+            {
+              "name": "Sports Outdoor Auxiliary Supplies",
+              "categoryID": "121898001"
+            },
+            {
+              "name": "Outdoor Shoes",
+              "categoryID": "121900002"
+            },
+            {
+              "name": "Volleyball Supplies",
+              "categoryID": "122248001"
+            },
+            {
+              "name": "Riding Parts",
+              "categoryID": "122098001"
+            },
+            {
+              "name": "Outdoor Glasses",
+              "categoryID": "122648001"
+            },
+            {
+              "name": "Sports Leisure Clothing",
+              "categoryID": "1048069"
+            },
+            {
+              "name": "Outdoor Clothing",
+              "categoryID": "1048070"
+            },
+            {
+              "name": "Sneakers",
+              "categoryID": "121876002"
+            },
+            {
+              "name": "Riding Clothing",
+              "categoryID": "201564924"
+            },
+            {
+              "name": "Golf Supplies",
+              "categoryID": "2005"
+            },
+            {
+              "name": "Ski Supplies",
+              "categoryID": "2013"
+            },
+            {
+              "name": "Fitness Equipment Supplies",
+              "categoryID": "2009"
+            },
+            {
+              "name": "Sports Protective Gear",
+              "categoryID": "2040"
+            },
+            {
+              "name": "Mountain Camping Supplies",
+              "categoryID": "281904"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-4",
+      "name": "Children&Baby",
+      "categoryID": "31115011813",
+      "children": [
+        {
+          "name": "Children's Clothing",
+          "categoryID": "311",
+          "children": [
+            {
+              "name": "Children's Socks",
+              "categoryID": "1043351"
+            },
+            {
+              "name": "Climbing Suit",
+              "categoryID": "1037003"
+            },
+            {
+              "name": "Children's Pants",
+              "categoryID": "1037004"
+            },
+            {
+              "name": "Children's Cotton Padded Jacket",
+              "categoryID": "1037006"
+            },
+            {
+              "name": "Children's Knitwear",
+              "categoryID": "1037009"
+            },
+            {
+              "name": "Children's Sweater",
+              "categoryID": "1037010"
+            },
+            {
+              "name": "Children's Shirt",
+              "categoryID": "1037011"
+            },
+            {
+              "name": "Children's T-shirt",
+              "categoryID": "1037012"
+            },
+            {
+              "name": "Children's Sweat",
+              "categoryID": "1042840"
+            },
+            {
+              "name": "Children's Vest",
+              "categoryID": "1042841"
+            },
+            {
+              "name": "Children's Suit",
+              "categoryID": "1037192"
+            },
+            {
+              "name": "Parent-child Outfit",
+              "categoryID": "1037039"
+            },
+            {
+              "name": "Baby Gift Box",
+              "categoryID": "122698004"
+            },
+            {
+              "name": "Children's Vest And Sling Top",
+              "categoryID": "1048174"
+            },
+            {
+              "name": "Infant Bedding And Clothing",
+              "categoryID": "122380006"
+            },
+            {
+              "name": "Children's Leggings",
+              "categoryID": "127430003"
+            },
+            {
+              "name": "Children's Undershirt",
+              "categoryID": "127430004"
+            },
+            {
+              "name": "Children's Jeans",
+              "categoryID": "201387101"
+            },
+            {
+              "name": "Children's Polo Shirt",
+              "categoryID": "201554412"
+            },
+            {
+              "name": "Children's Sports And Outdoor Clothing",
+              "categoryID": "127420011"
+            },
+            {
+              "name": "Children's Cheongsam And Tang Suit And National Costume",
+              "categoryID": "201545714"
+            },
+            {
+              "name": "Children's Skirt",
+              "categoryID": "201546613"
+            },
+            {
+              "name": "Children's Miscellaneous Bag",
+              "categoryID": "127164001"
+            },
+            {
+              "name": "Children's Down Jacket And Down Liner",
+              "categoryID": "201552814"
+            },
+            {
+              "name": "Children's Home Clothes",
+              "categoryID": "201552907"
+            },
+            {
+              "name": "Children's Coat And Jacket And Coat",
+              "categoryID": "201551614"
+            },
+            {
+              "name": "Children's Underwear Panties",
+              "categoryID": "127496001"
+            },
+            {
+              "name": "Campus Clothing",
+              "categoryID": "202030801"
+            }
+          ]
+        },
+        {
+          "name": "Toys",
+          "categoryID": "1813",
+          "children": [
+            {
+              "name": "Traditional Toys",
+              "categoryID": "1045520"
+            },
+            {
+              "name": "Baby Toys",
+              "categoryID": "122984013"
+            },
+            {
+              "name": "Electronic And Luminous Toys",
+              "categoryID": "124022002"
+            },
+            {
+              "name": "Inflatable Toys",
+              "categoryID": "1048131"
+            },
+            {
+              "name": "Electric And Remote Control Toys",
+              "categoryID": "122962001"
+            },
+            {
+              "name": "Baby Strollers",
+              "categoryID": "122962004"
+            },
+            {
+              "name": "Play House Toys",
+              "categoryID": "122962011"
+            },
+            {
+              "name": "Dolls",
+              "categoryID": "122988002"
+            },
+            {
+              "name": "Model Toys",
+              "categoryID": "181302"
+            },
+            {
+              "name": "Puzzle Science And Education Toys",
+              "categoryID": "181309"
+            },
+            {
+              "name": "Game Toys",
+              "categoryID": "127000088"
+            },
+            {
+              "name": "Building Block Patchwork Toys",
+              "categoryID": "127002083"
+            },
+            {
+              "name": "Plush And Fabric Doll Toy",
+              "categoryID": "201161304"
+            }
+          ]
+        },
+        {
+          "name": "Maternal&Infant Supplies",
+          "categoryID": "1501",
+          "children": [
+            {
+              "name": "Diaper Wipes",
+              "categoryID": "122372005"
+            },
+            {
+              "name": "Safety And Protection And Reminder",
+              "categoryID": "124952001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-5",
+      "name": "Home Decoration",
+      "categoryID": "961513",
+      "children": [
+        {
+          "name": "Home Textile",
+          "categoryID": "96",
+          "children": [
+            {
+              "name": "Wall Decoration",
+              "categoryID": "1043469"
+            },
+            {
+              "name": "Baby Home Textile",
+              "categoryID": "121188018"
+            },
+            {
+              "name": "Clock",
+              "categoryID": "124282001"
+            },
+            {
+              "name": "Hotel Cloth",
+              "categoryID": "121186015"
+            },
+            {
+              "name": "Quilt Core Class",
+              "categoryID": "123084001"
+            },
+            {
+              "name": "Cool Summer Category",
+              "categoryID": "123084002"
+            },
+            {
+              "name": "Pillow Core Class",
+              "categoryID": "123086001"
+            },
+            {
+              "name": "Decorative Painting ",
+              "categoryID": "127926016"
+            },
+            {
+              "name": "Face Towel",
+              "categoryID": "127926017"
+            },
+            {
+              "name": "Disposable Towel",
+              "categoryID": "201148907"
+            },
+            {
+              "name": "Blanket",
+              "categoryID": "127870016"
+            },
+            {
+              "name": "Home Fabric",
+              "categoryID": "127894012"
+            },
+            {
+              "name": "Bath Towel",
+              "categoryID": "127874019"
+            },
+            {
+              "name": "Creative Ornaments",
+              "categoryID": "127888009"
+            },
+            {
+              "name": "Decorative Frame",
+              "categoryID": "1906"
+            },
+            {
+              "name": "Functional Towel",
+              "categoryID": "127900015"
+            },
+            {
+              "name": "Applique",
+              "categoryID": "1704"
+            }
+          ]
+        },
+        {
+          "name": "Home Decoration",
+          "categoryID": "13",
+          "children": [
+            {
+              "name": "Door And Window Hardware",
+              "categoryID": "1032415"
+            },
+            {
+              "name": "Plumbing Hardware",
+              "categoryID": "1032416"
+            },
+            {
+              "name": "Living Room Furniture",
+              "categoryID": "1043661"
+            },
+            {
+              "name": "Commercial Office Furniture",
+              "categoryID": "1045579"
+            },
+            {
+              "name": "Leisure Outdoor Furniture",
+              "categoryID": "122796003"
+            },
+            {
+              "name": "Kitchen And Sanitary Hardware",
+              "categoryID": "122374009"
+            },
+            {
+              "name": "Sanitary Ware",
+              "categoryID": "122384004"
+            },
+            {
+              "name": "Furniture Hardware Accessories",
+              "categoryID": "1346"
+            },
+            {
+              "name": "Locks",
+              "categoryID": "3010"
+            }
+          ]
+        },
+        {
+          "name": "Home Daily Necessities",
+          "categoryID": "15",
+          "children": [
+            {
+              "name": "Hotel Supplies",
+              "categoryID": "1045268"
+            },
+            {
+              "name": "Rainproof Tools",
+              "categoryID": "124016003"
+            },
+            {
+              "name": "Warm Paste And Furnace And Warm Supplies",
+              "categoryID": "201664803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-6",
+      "name": "Lighting",
+      "categoryID": "58",
+      "children": [
+        {
+          "name": "Lighting",
+          "categoryID": "58",
+          "children": [
+            {
+              "name": "Outdoor Lighting Fixtures",
+              "categoryID": "10217"
+            },
+            {
+              "name": "Lamps And Lanterns Lighting",
+              "categoryID": "10220"
+            },
+            {
+              "name": "Indicating Lighting",
+              "categoryID": "1034967"
+            },
+            {
+              "name": "Lighting Flashlight",
+              "categoryID": "124268005"
+            },
+            {
+              "name": "Independent Light Source",
+              "categoryID": "121192010"
+            },
+            {
+              "name": "LED Display",
+              "categoryID": "123612008"
+            },
+            {
+              "name": "OLED",
+              "categoryID": "123612012"
+            },
+            {
+              "name": "LED Light String",
+              "categoryID": "201303723"
+            },
+            {
+              "name": "Table Lamp Night Lamp",
+              "categoryID": "1330"
+            },
+            {
+              "name": "Commercial Lighting",
+              "categoryID": "201270263"
+            },
+            {
+              "name": "Lighting Without Main Lamp",
+              "categoryID": "201903201"
+            },
+            {
+              "name": "Gas Discharge Lamp",
+              "categoryID": "527"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-7",
+      "name": "Office&Festival",
+      "categoryID": "67",
+      "children": [
+        {
+          "name": "Office&Culture",
+          "categoryID": "67",
+          "children": [
+            {
+              "name": "Crafts",
+              "categoryID": "1044181"
+            },
+            {
+              "name": "Christmas Supplies",
+              "categoryID": "122196001"
+            },
+            {
+              "name": "Key Accessories",
+              "categoryID": "125492003"
+            },
+            {
+              "name": "Animation And Film And Star Peripherals",
+              "categoryID": "201303011"
+            },
+            {
+              "name": "Creative Gifts",
+              "categoryID": "201305307"
+            },
+            {
+              "name": "Festival Supplies",
+              "categoryID": "1702"
+            },
+            {
+              "name": "Financial Supplies",
+              "categoryID": "2121"
+            },
+            {
+              "name": "Office Storage",
+              "categoryID": "2122"
+            },
+            {
+              "name": "Art And Calligraphy And Drawing Supplies",
+              "categoryID": "2127"
+            },
+            {
+              "name": "Display Supplies",
+              "categoryID": "2129"
+            },
+            {
+              "name": "Learning Stationery",
+              "categoryID": "2111"
+            },
+            {
+              "name": "Office Paper",
+              "categoryID": "2112"
+            },
+            {
+              "name": "Binding And Gluing And Desktop Supplies",
+              "categoryID": "2113"
+            },
+            {
+              "name": "Writing Tools",
+              "categoryID": "81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-8",
+      "name": "Pets&Gardening",
+      "categoryID": "122916001",
+      "children": [
+        {
+          "name": "Pets&Gardening",
+          "categoryID": "122916001",
+          "children": [
+            {
+              "name": "Cat And Dog Beauty Cleaning Supplies",
+              "categoryID": "121850001"
+            },
+            {
+              "name": "Flowerpot",
+              "categoryID": "125496001"
+            },
+            {
+              "name": "Small Pets And Supplies",
+              "categoryID": "121814002"
+            },
+            {
+              "name": "Cat And Dog Supplies",
+              "categoryID": "121828001"
+            },
+            {
+              "name": "Pet Clothing And Accessories",
+              "categoryID": "201305503"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-9",
+      "name": "Beauty&Skin Care",
+      "categoryID": "97130822220",
+      "children": [
+        {
+          "name": "Beauty Skin Care&Makeup",
+          "categoryID": "97",
+          "children": [
+            {
+              "name": "Nail Products",
+              "categoryID": "1043162"
+            },
+            {
+              "name": "Beauty Tools",
+              "categoryID": "1043171"
+            },
+            {
+              "name": "Facial Care",
+              "categoryID": "1042634"
+            },
+            {
+              "name": "Lip Care",
+              "categoryID": "1043498"
+            },
+            {
+              "name": "Men's Skin Care",
+              "categoryID": "121702001"
+            },
+            {
+              "name": "Lip Makeup",
+              "categoryID": "201304705"
+            },
+            {
+              "name": "Beauty Instrument",
+              "categoryID": "201307015"
+            },
+            {
+              "name": "Essential Oil Aromatherapy",
+              "categoryID": "201309707"
+            },
+            {
+              "name": "Facial Essence",
+              "categoryID": "201308310"
+            },
+            {
+              "name": "Eye Makeup",
+              "categoryID": "201307604"
+            },
+            {
+              "name": "Perfume",
+              "categoryID": "201303115"
+            },
+            {
+              "name": "Eye Care",
+              "categoryID": "201303117"
+            },
+            {
+              "name": "Mask And Mask Powder",
+              "categoryID": "201308710"
+            },
+            {
+              "name": "Facial Makeup",
+              "categoryID": "82101"
+            }
+          ]
+        },
+        {
+          "name": "Personal Care&Home Cleaning",
+          "categoryID": "130822220",
+          "children": [
+            {
+              "name": "Hair Products",
+              "categoryID": "10313"
+            },
+            {
+              "name": "Floor Cleaning Care",
+              "categoryID": "122278002"
+            },
+            {
+              "name": "Oral Cleaning Care",
+              "categoryID": "122268004"
+            },
+            {
+              "name": "Wig",
+              "categoryID": "122338008"
+            },
+            {
+              "name": "Deodorant Aromatic Products",
+              "categoryID": "122194007"
+            },
+            {
+              "name": "Kitchen And Sanitary Cleaner",
+              "categoryID": "122212003"
+            },
+            {
+              "name": "Clothing Cleaning Care",
+              "categoryID": "122196011"
+            },
+            {
+              "name": "Home Cleaning Care",
+              "categoryID": "122262003"
+            },
+            {
+              "name": "Paper Wipes",
+              "categoryID": "1513"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-10",
+      "name": "Digital&Home Appliances",
+      "categoryID": "76",
+      "children": [
+        {
+          "name": "Home Appliances",
+          "categoryID": "6",
+          "children": [
+            {
+              "name": "Audio-visual Appliances",
+              "categoryID": "1047104"
+            },
+            {
+              "name": "Two Seasons Electrical Appliances",
+              "categoryID": "1047981"
+            },
+            {
+              "name": "A Protective Appliance",
+              "categoryID": "123610009"
+            },
+            {
+              "name": "Maternal And Child Electrical Appliances",
+              "categoryID": "201571222"
+            },
+            {
+              "name": "Kitchen Appliances",
+              "categoryID": "653"
+            }
+          ]
+        },
+        {
+          "name": "Digital&Computers",
+          "categoryID": "7",
+          "children": [
+            {
+              "name": "Tablet Accessories",
+              "categoryID": "1046688"
+            },
+            {
+              "name": "Apple Special Accessories",
+              "categoryID": "1046693"
+            },
+            {
+              "name": "Mobile Phone Decoration",
+              "categoryID": "1044130"
+            },
+            {
+              "name": "Photography And Accessories",
+              "categoryID": "124776003"
+            },
+            {
+              "name": "Mobile Phone Accessories",
+              "categoryID": "50911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-11",
+      "name": "Automotive Supplies",
+      "categoryID": "122916002",
+      "children": [
+        {
+          "name": "Automotive Supplies",
+          "categoryID": "122916002",
+          "children": [
+            {
+              "name": "Lamps",
+              "categoryID": "10108"
+            },
+            {
+              "name": "Car Accessories",
+              "categoryID": "124014003"
+            },
+            {
+              "name": "Automotive Interior Supplies",
+              "categoryID": "92"
+            },
+            {
+              "name": "Beauty Maintenance",
+              "categoryID": "79"
+            },
+            {
+              "name": "Motorcycle Accessories",
+              "categoryID": "3304"
+            },
+            {
+              "name": "Seat Mat Foot Mat",
+              "categoryID": "3307"
+            },
+            {
+              "name": "Exterior Trims And Modifications And Accessories",
+              "categoryID": "3308"
+            },
+            {
+              "name": "Safety And Emergency And Self-driving",
+              "categoryID": "3311"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-12",
+      "name": "Adult Supplies",
+      "categoryID": "130823000",
+      "children": [
+        {
+          "name": "Adult Supplies",
+          "categoryID": "130823000",
+          "children": [
+            {
+              "name": "Female Apparatus",
+              "categoryID": "126178001"
+            },
+            {
+              "name": "Sex Supplies",
+              "categoryID": "126144003"
+            },
+            {
+              "name": "Male Utensils",
+              "categoryID": "126150002"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+/* color palette from <https://github.com/vuejs/theme> */
+// :root {
+//   --vt-c-white: #ffffff;
+//   --vt-c-white-soft: #f8f8f8;
+//   --vt-c-white-mute: #f2f2f2;
+
+//   --vt-c-black: #181818;
+//   --vt-c-black-soft: #222222;
+//   --vt-c-black-mute: #282828;
+
+//   --vt-c-indigo: #2c3e50;
+
+//   --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
+//   --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
+//   --vt-c-divider-dark-1: rgba(84, 84, 84, 0.65);
+//   --vt-c-divider-dark-2: rgba(84, 84, 84, 0.48);
+
+//   --vt-c-text-light-1: var(--vt-c-indigo);
+//   --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
+//   --vt-c-text-dark-1: var(--vt-c-white);
+//   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+// }
+
+// /* semantic color variables for this project */
+// :root {
+//   --color-background: var(--vt-c-white);
+//   --color-background-soft: var(--vt-c-white-soft);
+//   --color-background-mute: var(--vt-c-white-mute);
+
+//   --color-border: var(--vt-c-divider-light-2);
+//   --color-border-hover: var(--vt-c-divider-light-1);
+
+//   --color-heading: var(--vt-c-text-light-1);
+//   --color-text: var(--vt-c-text-light-1);
+
+//   --section-gap: 160px;
+// }
+
+// @media (prefers-color-scheme: dark) {
+//   :root {
+//     --color-background: var(--vt-c-black);
+//     --color-background-soft: var(--vt-c-black-soft);
+//     --color-background-mute: var(--vt-c-black-mute);
+
+//     --color-border: var(--vt-c-divider-dark-2);
+//     --color-border-hover: var(--vt-c-divider-dark-1);
+
+//     --color-heading: var(--vt-c-text-dark-1);
+//     --color-text: var(--vt-c-text-dark-2);
+//   }
+// }
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  //首页样式
+  // --grid-template-columns: repeat(9, 10%);
+  --item-height: 290px;
+
+  //详情页面样式
+  .wrap-recommended[style-type='productDetail'] {
+    // --grid-template-columns: repeat(6, 15.5%);
+    --item-height: 345px;
+  }
+}
+
+/* nprogress样式 */
+#nprogress .bar {
+  background: $primary-color !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: $primary-color !important;
+
+  border-left-color: $primary-color !important;
+}
+
+#nprogress .peg {
+  box-shadow:
+    0 0 10px $primary-color,
+    0 0 5px $primary-color !important;
+}
+
+// 公共的样式名
+.mb-24 {
+  margin-bottom: 24px;
+}
+
+.mb-20 {
+  margin-bottom: 24px;
+}
+
+.mt-24 {
+  margin-top: 24px;
+}
+
+.mt-20 {
+  margin-top: 24px;
+}
+
+.mr-10 {
+  margin: 10px;
+}
+
+.cursor {
+  color: var(--sm-text-color-regular);
+  cursor: pointer;
+}
+
+.redcolor {
+  color: $red-color;
+}
+
+.graycolor {
+  color: #999999;
+}
+
+.fontbold {
+  font-weight: bold;
+}
+
+.text-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.text-multi-ellipsis--l2 {
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  line-break: anywhere;
+  -webkit-box-orient: vertical;
+}
+
+.text-multi-ellipsis--l3 {
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  line-break: anywhere;
+  -webkit-box-orient: vertical;
+}
+
+.hover-text {
+  &:hover {
+    color: #bc0c34;
+  }
+}
+
+.el-color-picker__panel {
+  .el-color-dropdown__btns .el-color-dropdown__link-btn {
+    font-size: 16px;
+  }
+
+  .el-color-dropdown__btns .el-color-dropdown__btn {
+    font-size: 16px;
+  }
+
+  .el-input__inner {
+    font-size: 16px;
+  }
+}
+
+.notranslate {
+  translate: no;
+}

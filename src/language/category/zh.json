@@ -1,0 +1,1400 @@
+{
+  "list": [
+    {
+      "icon": "icon-a-1",
+      "name": "女装/男装/内衣",
+      "categoryID": "1016510166312",
+      "children": [
+        {
+          "name": "女装",
+          "categoryID": "10166",
+          "children": [
+            {
+              "name": "女式牛仔裤",
+              "categoryID": "1031869"
+            },
+            {
+              "name": "连衣裙",
+              "categoryID": "1031910"
+            },
+            {
+              "name": "半身裙",
+              "categoryID": "1031912"
+            },
+            {
+              "name": "女式衬衫",
+              "categoryID": "1031918"
+            },
+            {
+              "name": "女式T恤",
+              "categoryID": "1031919"
+            },
+            {
+              "name": "小背心/吊带/抹胸",
+              "categoryID": "1031920"
+            },
+            {
+              "name": "女式卫衣、绒衫",
+              "categoryID": "1037021"
+            },
+            {
+              "name": "女式皮衣",
+              "categoryID": "1037019"
+            },
+            {
+              "name": "小西装",
+              "categoryID": "1037020"
+            },
+            {
+              "name": "时尚休闲套装",
+              "categoryID": "1048256"
+            },
+            {
+              "name": "女式马甲",
+              "categoryID": "1036617"
+            },
+            {
+              "name": "女式毛衣",
+              "categoryID": "125746001"
+            },
+            {
+              "name": "女式休闲裤",
+              "categoryID": "125748001"
+            },
+            {
+              "name": "蕾丝衫、雪纺衫",
+              "categoryID": "1048182"
+            },
+            {
+              "name": "女式毛呢外套",
+              "categoryID": "125420001"
+            },
+            {
+              "name": "女式夹克/棒球服",
+              "categoryID": "125750002"
+            },
+            {
+              "name": "孕妇装",
+              "categoryID": "122196004"
+            },
+            {
+              "name": "婚纱/礼服/旗袍",
+              "categoryID": "125740002"
+            },
+            {
+              "name": "大码女装",
+              "categoryID": "127372010"
+            },
+            {
+              "name": "女式防晒衣、防晒服",
+              "categoryID": "201195601"
+            },
+            {
+              "name": "工作/工装制服",
+              "categoryID": "201548401"
+            },
+            {
+              "name": "舞台表演服",
+              "categoryID": "201548501"
+            },
+            {
+              "name": "情侣服装",
+              "categoryID": "201548601"
+            },
+            {
+              "name": "女式职业套装",
+              "categoryID": "201548801"
+            },
+            {
+              "name": "女式羽绒服",
+              "categoryID": "127360010"
+            },
+            {
+              "name": "女士卫裤",
+              "categoryID": "201547109"
+            },
+            {
+              "name": "女士连体裤/衣",
+              "categoryID": "201325101"
+            },
+            {
+              "name": "女式棉衣",
+              "categoryID": "127420001"
+            },
+            {
+              "name": "女士牛仔外套",
+              "categoryID": "201560705"
+            },
+            {
+              "name": "女士短裤",
+              "categoryID": "201585902"
+            },
+            {
+              "name": "女式打底裤",
+              "categoryID": "127380008"
+            },
+            {
+              "name": "女式针织衫",
+              "categoryID": "127386001"
+            },
+            {
+              "name": "国际民族服装",
+              "categoryID": "201158403"
+            },
+            {
+              "name": "二次元动漫服装/配件",
+              "categoryID": "201217707"
+            },
+            {
+              "name": "女式风衣",
+              "categoryID": "319"
+            },
+            {
+              "name": "女士打底",
+              "categoryID": "201723506"
+            },
+            {
+              "name": "汉服",
+              "categoryID": "202041302"
+            },
+            {
+              "name": "皮草",
+              "categoryID": "304"
+            },
+            {
+              "name": "中老年女装",
+              "categoryID": "202025703"
+            }
+          ]
+        },
+        {
+          "name": "男装",
+          "categoryID": "10165",
+          "children": [
+            {
+              "name": "男式羽绒服",
+              "categoryID": "1034163"
+            },
+            {
+              "name": "男式牛仔裤",
+              "categoryID": "1031888"
+            },
+            {
+              "name": "男式西裤",
+              "categoryID": "1031889"
+            },
+            {
+              "name": "男式休闲裤",
+              "categoryID": "1031890"
+            },
+            {
+              "name": "男式棉服",
+              "categoryID": "1031892"
+            },
+            {
+              "name": "男式风衣",
+              "categoryID": "1031897"
+            },
+            {
+              "name": "男式卫衣",
+              "categoryID": "1036995"
+            },
+            {
+              "name": "男式沙滩裤",
+              "categoryID": "1036996"
+            },
+            {
+              "name": "男式中山装",
+              "categoryID": "1042833"
+            },
+            {
+              "name": "男式Polo衫",
+              "categoryID": "122232007"
+            },
+            {
+              "name": "男式皮衣",
+              "categoryID": "123694002"
+            },
+            {
+              "name": "男式大衣",
+              "categoryID": "122194006"
+            },
+            {
+              "name": "男式毛衫",
+              "categoryID": "123650006"
+            },
+            {
+              "name": "男式休闲运动套装",
+              "categoryID": "122238007"
+            },
+            {
+              "name": "工装、制服",
+              "categoryID": "124450001"
+            },
+            {
+              "name": "男式背心",
+              "categoryID": "122196008"
+            },
+            {
+              "name": "男式棒球服",
+              "categoryID": "123688001"
+            },
+            {
+              "name": "男式西装",
+              "categoryID": "123694001"
+            },
+            {
+              "name": "男式防晒衣、皮肤衣",
+              "categoryID": "127422009"
+            },
+            {
+              "name": "男式加绒裤",
+              "categoryID": "201559512"
+            },
+            {
+              "name": "大码男装",
+              "categoryID": "201470102"
+            },
+            {
+              "name": "动漫二次元服装",
+              "categoryID": "201546513"
+            },
+            {
+              "name": "男式短裤",
+              "categoryID": "201561908"
+            },
+            {
+              "name": "男式卫裤",
+              "categoryID": "201465302"
+            },
+            {
+              "name": "男式皮裤",
+              "categoryID": "127446001"
+            },
+            {
+              "name": "男式衬衫",
+              "categoryID": "314"
+            },
+            {
+              "name": "男式T恤",
+              "categoryID": "315"
+            },
+            {
+              "name": "男式夹克",
+              "categoryID": "317"
+            }
+          ]
+        },
+        {
+          "name": "内衣",
+          "categoryID": "312",
+          "children": [
+            {
+              "name": "袜子",
+              "categoryID": "1043349"
+            },
+            {
+              "name": "胸垫、胸贴、肩带、吊袜带",
+              "categoryID": "122528003"
+            },
+            {
+              "name": "文胸",
+              "categoryID": "124188007"
+            },
+            {
+              "name": "女士内裤",
+              "categoryID": "122450001"
+            },
+            {
+              "name": "背心、裹胸、抹胸、冰丝袖套",
+              "categoryID": "122478003"
+            },
+            {
+              "name": "塑身内衣",
+              "categoryID": "122484001"
+            },
+            {
+              "name": "轻薄材质内衣",
+              "categoryID": "122450002"
+            },
+            {
+              "name": "睡衣、家居服、睡袍、浴袍",
+              "categoryID": "122500001"
+            },
+            {
+              "name": "保暖内衣",
+              "categoryID": "122558002"
+            },
+            {
+              "name": "丝袜/打底袜",
+              "categoryID": "201909602"
+            },
+            {
+              "name": "男士内裤",
+              "categoryID": "201835213"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-2",
+      "name": "鞋/箱包皮具/服饰配件和饰品",
+      "categoryID": "1038378104295454",
+      "children": [
+        {
+          "name": "服饰配件、饰品",
+          "categoryID": "54",
+          "children": [
+            {
+              "name": "服饰配件",
+              "categoryID": "1045423"
+            },
+            {
+              "name": "饰品展示架",
+              "categoryID": "1044138"
+            },
+            {
+              "name": "耳饰",
+              "categoryID": "122704002"
+            },
+            {
+              "name": "衣饰",
+              "categoryID": "122322004"
+            },
+            {
+              "name": "项饰",
+              "categoryID": "122322005"
+            },
+            {
+              "name": "手饰",
+              "categoryID": "122706003"
+            },
+            {
+              "name": "表",
+              "categoryID": "124268003"
+            },
+            {
+              "name": "穿刺饰品",
+              "categoryID": "201231105"
+            },
+            {
+              "name": "儿童饰品",
+              "categoryID": "201149004"
+            },
+            {
+              "name": "儿童帽子/围巾/手套/配件",
+              "categoryID": "201564422"
+            },
+            {
+              "name": "饰品挂饰",
+              "categoryID": "201308926"
+            },
+            {
+              "name": "帽子/头巾",
+              "categoryID": "127464010"
+            },
+            {
+              "name": "手套/袖套",
+              "categoryID": "127484008"
+            },
+            {
+              "name": "胸饰",
+              "categoryID": "201220505"
+            },
+            {
+              "name": "围巾/丝巾/防晒衣",
+              "categoryID": "127508004"
+            },
+            {
+              "name": "首饰套装",
+              "categoryID": "1746"
+            },
+            {
+              "name": "发饰、头饰",
+              "categoryID": "1752"
+            },
+            {
+              "name": "背饰",
+              "categoryID": "201228407"
+            },
+            {
+              "name": "领部配件",
+              "categoryID": "127462009"
+            },
+            {
+              "name": "生活口罩、耳罩",
+              "categoryID": "201152912"
+            },
+            {
+              "name": "半成品饰品配件",
+              "categoryID": "201233908"
+            },
+            {
+              "name": "眼镜及配件",
+              "categoryID": "80"
+            }
+          ]
+        },
+        {
+          "name": "箱包皮具",
+          "categoryID": "1042954",
+          "children": [
+            {
+              "name": "旅行箱",
+              "categoryID": "10283"
+            },
+            {
+              "name": "月子帽、妈咪包",
+              "categoryID": "1043801"
+            },
+            {
+              "name": "男士包袋",
+              "categoryID": "121658001"
+            },
+            {
+              "name": "钱包",
+              "categoryID": "122228002"
+            },
+            {
+              "name": "化妆箱包",
+              "categoryID": "125728001"
+            },
+            {
+              "name": "旅行包、旅行袋",
+              "categoryID": "122216001"
+            },
+            {
+              "name": "女士包袋",
+              "categoryID": "124016002"
+            },
+            {
+              "name": "手机包",
+              "categoryID": "127406010"
+            },
+            {
+              "name": "儿童包",
+              "categoryID": "126128002"
+            },
+            {
+              "name": "电脑包包",
+              "categoryID": "201548701"
+            },
+            {
+              "name": "箱包配件",
+              "categoryID": "127278005"
+            },
+            {
+              "name": "数码包",
+              "categoryID": "127398006"
+            },
+            {
+              "name": "运动包",
+              "categoryID": "201545602"
+            },
+            {
+              "name": "学生书包",
+              "categoryID": "201551616"
+            },
+            {
+              "name": "儿童休闲箱包",
+              "categoryID": "201556615"
+            },
+            {
+              "name": "功能小包",
+              "categoryID": "201997401"
+            },
+            {
+              "name": "双肩背包",
+              "categoryID": "201956604"
+            }
+          ]
+        },
+        {
+          "name": "鞋",
+          "categoryID": "1038378",
+          "children": [
+            {
+              "name": "鞋配件",
+              "categoryID": "125730003"
+            },
+            {
+              "name": "童鞋、婴儿鞋",
+              "categoryID": "125386001"
+            },
+            {
+              "name": "女鞋",
+              "categoryID": "125372002"
+            },
+            {
+              "name": "家居鞋",
+              "categoryID": "125312003"
+            },
+            {
+              "name": "男鞋",
+              "categoryID": "126506004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-3",
+      "name": "运动户外",
+      "categoryID": "18",
+      "children": [
+        {
+          "name": "运动户外",
+          "categoryID": "18",
+          "children": [
+            {
+              "name": "篮球用品",
+              "categoryID": "1044810"
+            },
+            {
+              "name": "羽毛球、网球用品",
+              "categoryID": "1044819"
+            },
+            {
+              "name": "乒乓球用品",
+              "categoryID": "1044825"
+            },
+            {
+              "name": "涉水运动用品",
+              "categoryID": "1044740"
+            },
+            {
+              "name": "裁判、计时、计步用具",
+              "categoryID": "1044780"
+            },
+            {
+              "name": "冰鞋、轮滑、滑板",
+              "categoryID": "1044794"
+            },
+            {
+              "name": "瑜伽用品",
+              "categoryID": "1044713"
+            },
+            {
+              "name": "台球用品",
+              "categoryID": "1044642"
+            },
+            {
+              "name": "垂钓用品",
+              "categoryID": "1044658"
+            },
+            {
+              "name": "运动、武术、球服",
+              "categoryID": "1048021"
+            },
+            {
+              "name": "游泳用品",
+              "categoryID": "1048023"
+            },
+            {
+              "name": "足球用品",
+              "categoryID": "122226003"
+            },
+            {
+              "name": "运动户外辅助用品",
+              "categoryID": "121898001"
+            },
+            {
+              "name": "户外鞋",
+              "categoryID": "121900002"
+            },
+            {
+              "name": "排球用品",
+              "categoryID": "122248001"
+            },
+            {
+              "name": "骑行零件",
+              "categoryID": "122098001"
+            },
+            {
+              "name": "户外眼镜",
+              "categoryID": "122648001"
+            },
+            {
+              "name": "运动休闲服装",
+              "categoryID": "1048069"
+            },
+            {
+              "name": "户外服装",
+              "categoryID": "1048070"
+            },
+            {
+              "name": "运动鞋",
+              "categoryID": "121876002"
+            },
+            {
+              "name": "骑行服配",
+              "categoryID": "201564924"
+            },
+            {
+              "name": "高尔夫用品",
+              "categoryID": "2005"
+            },
+            {
+              "name": "滑雪用品",
+              "categoryID": "2013"
+            },
+            {
+              "name": "健身器材用品",
+              "categoryID": "2009"
+            },
+            {
+              "name": "运动护具",
+              "categoryID": "2040"
+            },
+            {
+              "name": "山地、野营用品",
+              "categoryID": "281904"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-4",
+      "name": "童装/母婴用品/玩具",
+      "categoryID": "31115011813",
+      "children": [
+        {
+          "name": "童装",
+          "categoryID": "311",
+          "children": [
+            {
+              "name": "儿童袜",
+              "categoryID": "1043351"
+            },
+            {
+              "name": "连身衣、爬服",
+              "categoryID": "1037003"
+            },
+            {
+              "name": "童裤",
+              "categoryID": "1037004"
+            },
+            {
+              "name": "童棉袄/棉服",
+              "categoryID": "1037006"
+            },
+            {
+              "name": "童针织衫",
+              "categoryID": "1037009"
+            },
+            {
+              "name": "童毛衣",
+              "categoryID": "1037010"
+            },
+            {
+              "name": "童衬衫",
+              "categoryID": "1037011"
+            },
+            {
+              "name": "童T恤",
+              "categoryID": "1037012"
+            },
+            {
+              "name": "童卫衣",
+              "categoryID": "1042840"
+            },
+            {
+              "name": "童马甲",
+              "categoryID": "1042841"
+            },
+            {
+              "name": "童套装",
+              "categoryID": "1037192"
+            },
+            {
+              "name": "亲子装",
+              "categoryID": "1037039"
+            },
+            {
+              "name": "婴儿礼盒",
+              "categoryID": "122698004"
+            },
+            {
+              "name": "童背心/吊带衫",
+              "categoryID": "1048174"
+            },
+            {
+              "name": "婴幼儿寝居/服饰",
+              "categoryID": "122380006"
+            },
+            {
+              "name": "童打底裤",
+              "categoryID": "127430003"
+            },
+            {
+              "name": "童打底衫",
+              "categoryID": "127430004"
+            },
+            {
+              "name": "童牛仔服",
+              "categoryID": "201387101"
+            },
+            {
+              "name": "儿童POLO衫",
+              "categoryID": "201554412"
+            },
+            {
+              "name": "儿童运动/户外服",
+              "categoryID": "127420011"
+            },
+            {
+              "name": "童旗袍/唐装/民族服装",
+              "categoryID": "201545714"
+            },
+            {
+              "name": "童裙",
+              "categoryID": "201546613"
+            },
+            {
+              "name": "童装杂款包",
+              "categoryID": "127164001"
+            },
+            {
+              "name": "童羽绒服/羽绒内胆",
+              "categoryID": "201552814"
+            },
+            {
+              "name": "童家居服",
+              "categoryID": "201552907"
+            },
+            {
+              "name": "童外套/夹克/大衣",
+              "categoryID": "201551614"
+            },
+            {
+              "name": "儿童内衣内裤",
+              "categoryID": "127496001"
+            },
+            {
+              "name": "校园服装",
+              "categoryID": "202030801"
+            }
+          ]
+        },
+        {
+          "name": "玩具",
+          "categoryID": "1813",
+          "children": [
+            {
+              "name": "运动、休闲、传统玩具",
+              "categoryID": "1045520"
+            },
+            {
+              "name": "婴儿玩具",
+              "categoryID": "122984013"
+            },
+            {
+              "name": "电子/发光玩具",
+              "categoryID": "124022002"
+            },
+            {
+              "name": "充气玩具",
+              "categoryID": "1048131"
+            },
+            {
+              "name": "电动/遥控玩具",
+              "categoryID": "122962001"
+            },
+            {
+              "name": "童车、背带",
+              "categoryID": "122962004"
+            },
+            {
+              "name": "过家家玩具",
+              "categoryID": "122962011"
+            },
+            {
+              "name": "公仔、玩偶、娃娃",
+              "categoryID": "122988002"
+            },
+            {
+              "name": "模型玩具",
+              "categoryID": "181302"
+            },
+            {
+              "name": "益智、科教玩具",
+              "categoryID": "181309"
+            },
+            {
+              "name": "游戏玩具",
+              "categoryID": "127000088"
+            },
+            {
+              "name": "积木拼插类玩具",
+              "categoryID": "127002083"
+            },
+            {
+              "name": "毛绒/布艺公仔玩具",
+              "categoryID": "201161304"
+            }
+          ]
+        },
+        {
+          "name": "母婴用品",
+          "categoryID": "1501",
+          "children": [
+            {
+              "name": "尿裤湿巾",
+              "categoryID": "122372005"
+            },
+            {
+              "name": "安全/防护/提醒",
+              "categoryID": "124952001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-5",
+      "name": "家纺家饰/居家日用品/家装建材",
+      "categoryID": "961513",
+      "children": [
+        {
+          "name": "家纺家饰",
+          "categoryID": "96",
+          "children": [
+            {
+              "name": "壁饰",
+              "categoryID": "1043469"
+            },
+            {
+              "name": "婴童家纺",
+              "categoryID": "121188018"
+            },
+            {
+              "name": "钟",
+              "categoryID": "124282001"
+            },
+            {
+              "name": "酒店布草",
+              "categoryID": "121186015"
+            },
+            {
+              "name": "被芯类",
+              "categoryID": "123084001"
+            },
+            {
+              "name": "夏凉品类",
+              "categoryID": "123084002"
+            },
+            {
+              "name": "枕芯类",
+              "categoryID": "123086001"
+            },
+            {
+              "name": "装饰画、挂画",
+              "categoryID": "127926016"
+            },
+            {
+              "name": "毛巾、面巾",
+              "categoryID": "127926017"
+            },
+            {
+              "name": "一次性巾类",
+              "categoryID": "201148907"
+            },
+            {
+              "name": "毯类",
+              "categoryID": "127870016"
+            },
+            {
+              "name": "居家布艺",
+              "categoryID": "127894012"
+            },
+            {
+              "name": "浴巾、浴袍、浴裙、沙滩巾",
+              "categoryID": "127874019"
+            },
+            {
+              "name": "创意摆件",
+              "categoryID": "127888009"
+            },
+            {
+              "name": "装饰框架",
+              "categoryID": "1906"
+            },
+            {
+              "name": "功能毛巾",
+              "categoryID": "127900015"
+            },
+            {
+              "name": "贴饰",
+              "categoryID": "1704"
+            }
+          ]
+        },
+        {
+          "name": "家装建材",
+          "categoryID": "13",
+          "children": [
+            {
+              "name": "门窗五金",
+              "categoryID": "1032415"
+            },
+            {
+              "name": "水暖五金",
+              "categoryID": "1032416"
+            },
+            {
+              "name": "客厅家具",
+              "categoryID": "1043661"
+            },
+            {
+              "name": "商业、办公家具",
+              "categoryID": "1045579"
+            },
+            {
+              "name": "休闲、户外家具",
+              "categoryID": "122796003"
+            },
+            {
+              "name": "厨卫五金",
+              "categoryID": "122374009"
+            },
+            {
+              "name": "卫浴洁具",
+              "categoryID": "122384004"
+            },
+            {
+              "name": "家具五金、配件",
+              "categoryID": "1346"
+            },
+            {
+              "name": "锁具",
+              "categoryID": "3010"
+            }
+          ]
+        },
+        {
+          "name": "居家日用品",
+          "categoryID": "15",
+          "children": [
+            {
+              "name": "酒店用品",
+              "categoryID": "1045268"
+            },
+            {
+              "name": "挡风、遮阳、防雨工具",
+              "categoryID": "124016003"
+            },
+            {
+              "name": "保暖贴/怀炉/保暖用品",
+              "categoryID": "201664803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-6",
+      "name": "灯饰照明",
+      "categoryID": "58",
+      "children": [
+        {
+          "name": "灯饰照明",
+          "categoryID": "58",
+          "children": [
+            {
+              "name": "室外照明灯具",
+              "categoryID": "10217"
+            },
+            {
+              "name": "灯具灯饰",
+              "categoryID": "10220"
+            },
+            {
+              "name": "指示灯具",
+              "categoryID": "1034967"
+            },
+            {
+              "name": "照明电筒",
+              "categoryID": "124268005"
+            },
+            {
+              "name": "独立光源",
+              "categoryID": "121192010"
+            },
+            {
+              "name": "LED显示屏",
+              "categoryID": "123612008"
+            },
+            {
+              "name": "OLED",
+              "categoryID": "123612012"
+            },
+            {
+              "name": "LED灯串",
+              "categoryID": "201303723"
+            },
+            {
+              "name": "台灯夜灯",
+              "categoryID": "1330"
+            },
+            {
+              "name": "商业照明",
+              "categoryID": "201270263"
+            },
+            {
+              "name": "无主灯照明",
+              "categoryID": "201903201"
+            },
+            {
+              "name": "气体放电灯",
+              "categoryID": "527"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-7",
+      "name": "办公和文化",
+      "categoryID": "67",
+      "children": [
+        {
+          "name": "办公和文化",
+          "categoryID": "67",
+          "children": [
+            {
+              "name": "工艺品",
+              "categoryID": "1044181"
+            },
+            {
+              "name": "圣诞用品",
+              "categoryID": "122196001"
+            },
+            {
+              "name": "钥匙配饰",
+              "categoryID": "125492003"
+            },
+            {
+              "name": "动漫/影视/明星周边",
+              "categoryID": "201303011"
+            },
+            {
+              "name": "创意礼品",
+              "categoryID": "201305307"
+            },
+            {
+              "name": "节庆用品",
+              "categoryID": "1702"
+            },
+            {
+              "name": "财务用品",
+              "categoryID": "2121"
+            },
+            {
+              "name": "办公收纳",
+              "categoryID": "2122"
+            },
+            {
+              "name": "美术、书法、绘图用品",
+              "categoryID": "2127"
+            },
+            {
+              "name": "展示用品",
+              "categoryID": "2129"
+            },
+            {
+              "name": "学习文具",
+              "categoryID": "2111"
+            },
+            {
+              "name": "办公用纸",
+              "categoryID": "2112"
+            },
+            {
+              "name": "装订、胶粘、桌面用品",
+              "categoryID": "2113"
+            },
+            {
+              "name": "书写工具",
+              "categoryID": "81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-8",
+      "name": "宠物及园艺",
+      "categoryID": "122916001",
+      "children": [
+        {
+          "name": "宠物及园艺",
+          "categoryID": "122916001",
+          "children": [
+            {
+              "name": "猫/狗美容清洁用品",
+              "categoryID": "121850001"
+            },
+            {
+              "name": "花盆、花瓶",
+              "categoryID": "125496001"
+            },
+            {
+              "name": "小宠及用品",
+              "categoryID": "121814002"
+            },
+            {
+              "name": "猫狗用品",
+              "categoryID": "121828001"
+            },
+            {
+              "name": "宠物服饰、配饰",
+              "categoryID": "201305503"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-9",
+      "name": "美容护肤/彩妆/个护/家清",
+      "categoryID": "97130822220",
+      "children": [
+        {
+          "name": "美容护肤/彩妆",
+          "categoryID": "97",
+          "children": [
+            {
+              "name": "美甲产品",
+              "categoryID": "1043162"
+            },
+            {
+              "name": "美妆工具",
+              "categoryID": "1043171"
+            },
+            {
+              "name": "面部护理",
+              "categoryID": "1042634"
+            },
+            {
+              "name": "唇部护理",
+              "categoryID": "1043498"
+            },
+            {
+              "name": "男士护肤",
+              "categoryID": "121702001"
+            },
+            {
+              "name": "唇部彩妆",
+              "categoryID": "201304705"
+            },
+            {
+              "name": "美容仪器",
+              "categoryID": "201307015"
+            },
+            {
+              "name": "精油芳疗",
+              "categoryID": "201309707"
+            },
+            {
+              "name": "面部精华",
+              "categoryID": "201308310"
+            },
+            {
+              "name": "眼部彩妆",
+              "categoryID": "201307604"
+            },
+            {
+              "name": "香水",
+              "categoryID": "201303115"
+            },
+            {
+              "name": "眼部护理",
+              "categoryID": "201303117"
+            },
+            {
+              "name": "面膜、面膜粉",
+              "categoryID": "201308710"
+            },
+            {
+              "name": "面部彩妆",
+              "categoryID": "82101"
+            }
+          ]
+        },
+        {
+          "name": "个护/家清",
+          "categoryID": "130822220",
+          "children": [
+            {
+              "name": "美发产品",
+              "categoryID": "10313"
+            },
+            {
+              "name": "地板清洁护理",
+              "categoryID": "122278002"
+            },
+            {
+              "name": "口腔清洁护理",
+              "categoryID": "122268004"
+            },
+            {
+              "name": "假发",
+              "categoryID": "122338008"
+            },
+            {
+              "name": "除臭芳香用品",
+              "categoryID": "122194007"
+            },
+            {
+              "name": "厨卫清洁剂",
+              "categoryID": "122212003"
+            },
+            {
+              "name": "衣物清洁护理",
+              "categoryID": "122196011"
+            },
+            {
+              "name": "家居清洁护理",
+              "categoryID": "122262003"
+            },
+            {
+              "name": "纸品湿巾",
+              "categoryID": "1513"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-10",
+      "name": "数码和电脑/家用电器",
+      "categoryID": "76",
+      "children": [
+        {
+          "name": "家用电器",
+          "categoryID": "6",
+          "children": [
+            {
+              "name": "影音电器",
+              "categoryID": "1047104"
+            },
+            {
+              "name": "两季电器",
+              "categoryID": "1047981"
+            },
+            {
+              "name": "个护电器",
+              "categoryID": "123610009"
+            },
+            {
+              "name": "母婴电器",
+              "categoryID": "201571222"
+            },
+            {
+              "name": "厨房电器",
+              "categoryID": "653"
+            }
+          ]
+        },
+        {
+          "name": "数码和电脑",
+          "categoryID": "7",
+          "children": [
+            {
+              "name": "平板电脑配件",
+              "categoryID": "1046688"
+            },
+            {
+              "name": "苹果专用配件",
+              "categoryID": "1046693"
+            },
+            {
+              "name": "手机饰品",
+              "categoryID": "1044130"
+            },
+            {
+              "name": "摄影摄像及配件",
+              "categoryID": "124776003"
+            },
+            {
+              "name": "手机配件",
+              "categoryID": "50911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-11",
+      "name": "汽车用品",
+      "categoryID": "122916002",
+      "children": [
+        {
+          "name": "汽车用品",
+          "categoryID": "122916002",
+          "children": [
+            {
+              "name": "车灯",
+              "categoryID": "10108"
+            },
+            {
+              "name": "汽车配件",
+              "categoryID": "124014003"
+            },
+            {
+              "name": "汽车内饰用品",
+              "categoryID": "92"
+            },
+            {
+              "name": "美容养护",
+              "categoryID": "79"
+            },
+            {
+              "name": "摩托车配附件",
+              "categoryID": "3304"
+            },
+            {
+              "name": "座垫脚垫",
+              "categoryID": "3307"
+            },
+            {
+              "name": "外饰/改装/配件",
+              "categoryID": "3308"
+            },
+            {
+              "name": "安全/应急/自驾",
+              "categoryID": "3311"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-12",
+      "name": "成人用品",
+      "categoryID": "130823000",
+      "children": [
+        {
+          "name": "成人用品",
+          "categoryID": "130823000",
+          "children": [
+            {
+              "name": "女用器具",
+              "categoryID": "126178001"
+            },
+            {
+              "name": "情趣用品",
+              "categoryID": "126144003"
+            },
+            {
+              "name": "男用器具",
+              "categoryID": "126150002"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

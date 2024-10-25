@@ -1,0 +1,412 @@
+{
+  "list": [
+    {
+      "value": "US",
+      "label": "United States"
+    },
+    {
+      "value": "GB",
+      "label": "United Kingdom"
+    },
+    {
+      "value": "DE",
+      "label": "Germany"
+    },
+    {
+      "value": "CA",
+      "label": "Canada"
+    },
+    {
+      "value": "AU",
+      "label": "Australia"
+    },
+    {
+      "value": "AE",
+      "label": "United Arab Emirates"
+    },
+    {
+      "value": "AI",
+      "label": "Anguilla"
+    },
+    {
+      "value": "AL",
+      "label": "Albania"
+    },
+    {
+      "value": "AM",
+      "label": "Armenia"
+    },
+    {
+      "value": "AR",
+      "label": "Argentina"
+    },
+    {
+      "value": "AT",
+      "label": "Austria"
+    },
+    {
+      "value": "AW",
+      "label": "Aruba"
+    },
+    {
+      "value": "AX",
+      "label": "Aaland Island"
+    },
+    {
+      "value": "AZ",
+      "label": "Azerbaijan"
+    },
+    {
+      "value": "BD",
+      "label": "Bangladesh"
+    },
+    {
+      "value": "BE",
+      "label": "Belgium"
+    },
+    {
+      "value": "BG",
+      "label": "Bulgaria"
+    },
+    {
+      "value": "BH",
+      "label": "Bahrain"
+    },
+    {
+      "value": "BR",
+      "label": "Brazil"
+    },
+    {
+      "value": "CH",
+      "label": "Switzerland"
+    },
+    {
+      "value": "CL",
+      "label": "Chile"
+    },
+    {
+      "value": "CO",
+      "label": "Colombia"
+    },
+    {
+      "value": "CR",
+      "label": "Costa Rica"
+    },
+    {
+      "value": "CY",
+      "label": "Cyprus"
+    },
+    {
+      "value": "CZ",
+      "label": "Czech Repoublic"
+    },
+    {
+      "value": "DK",
+      "label": "Denmark"
+    },
+    {
+      "value": "EE",
+      "label": "Estonia"
+    },
+    {
+      "value": "EG",
+      "label": "Egypt"
+    },
+    {
+      "value": "ES",
+      "label": "Spain"
+    },
+    {
+      "value": "FI",
+      "label": "Finland"
+    },
+    {
+      "value": "FO",
+      "label": "Faroe Islands"
+    },
+    {
+      "value": "FR",
+      "label": "France"
+    },
+    {
+      "value": "GE",
+      "label": "Georgia"
+    },
+    {
+      "value": "GF",
+      "label": "French Guiana"
+    },
+    {
+      "value": "GG",
+      "label": "Guernsey Island"
+    },
+    {
+      "value": "GI",
+      "label": "Gibraltar"
+    },
+    {
+      "value": "GP",
+      "label": "Guadeloupe"
+    },
+    {
+      "value": "GR",
+      "label": "Greece"
+    },
+    {
+      "value": "HK",
+      "label": "Hong Kong"
+    },
+    {
+      "value": "HR",
+      "label": "Croatia"
+    },
+    {
+      "value": "HU",
+      "label": "Hungary"
+    },
+    {
+      "value": "IC",
+      "label": "Islas Canarias"
+    },
+    {
+      "value": "ID",
+      "label": "Indonesia"
+    },
+    {
+      "value": "IE",
+      "label": "Ireland"
+    },
+    {
+      "value": "IL",
+      "label": "Israel"
+    },
+    {
+      "value": "IN",
+      "label": "India"
+    },
+    {
+      "value": "IQ",
+      "label": "Iraq"
+    },
+    {
+      "value": "IS",
+      "label": "Iceland"
+    },
+    {
+      "value": "IT",
+      "label": "Italy"
+    },
+    {
+      "value": "JE",
+      "label": "Jersey"
+    },
+    {
+      "value": "JO",
+      "label": "Jordan"
+    },
+    {
+      "value": "JP",
+      "label": "Japan"
+    },
+    {
+      "value": "KR",
+      "label": "South Korea"
+    },
+    {
+      "value": "KW",
+      "label": "Kuwait"
+    },
+    {
+      "value": "KY",
+      "label": "Cayman Islands"
+    },
+    {
+      "value": "KZ",
+      "label": "Kazakhstan"
+    },
+    {
+      "value": "LB",
+      "label": "Lebanon"
+    },
+    {
+      "value": "LI",
+      "label": "Liechtenstein"
+    },
+    {
+      "value": "LT",
+      "label": "Lithuania"
+    },
+    {
+      "value": "LU",
+      "label": "Luxembourg"
+    },
+    {
+      "value": "LV",
+      "label": "Latvia"
+    },
+    {
+      "value": "MA",
+      "label": "Morocco"
+    },
+    {
+      "value": "MC",
+      "label": "Monaco"
+    },
+    {
+      "value": "MQ",
+      "label": "Martinique"
+    },
+    {
+      "value": "MT",
+      "label": "Malta"
+    },
+    {
+      "value": "MU",
+      "label": "Mauritius"
+    },
+    {
+      "value": "MX",
+      "label": "Mexico"
+    },
+    {
+      "value": "MY",
+      "label": "Malaysia"
+    },
+    {
+      "value": "NG",
+      "label": "Nigeria"
+    },
+    {
+      "value": "NL",
+      "label": "Netherlands"
+    },
+    {
+      "value": "NO",
+      "label": "Norway"
+    },
+    {
+      "value": "NZ",
+      "label": "New Zealand"
+    },
+    {
+      "value": "OM",
+      "label": "Oman"
+    },
+    {
+      "value": "PE",
+      "label": "Peru"
+    },
+    {
+      "value": "PF",
+      "label": "French Polynesia"
+    },
+    {
+      "value": "PH",
+      "label": "Philippines"
+    },
+    {
+      "value": "PK",
+      "label": "Pakistan"
+    },
+    {
+      "value": "PL",
+      "label": "Poland"
+    },
+    {
+      "value": "PR",
+      "label": "Puerto Rico"
+    },
+    {
+      "value": "PT",
+      "label": "Portugal"
+    },
+    {
+      "value": "PTM",
+      "label": "madeira"
+    },
+    {
+      "value": "QA",
+      "label": "Qatar"
+    },
+    {
+      "value": "RE",
+      "label": "Reunion"
+    },
+    {
+      "value": "RO",
+      "label": "Romania"
+    },
+    {
+      "value": "RS",
+      "label": "Serbia"
+    },
+    {
+      "value": "RU",
+      "label": "Russia"
+    },
+    {
+      "value": "SA",
+      "label": "Saudi Arabia"
+    },
+    {
+      "value": "SE",
+      "label": "Sweden"
+    },
+    {
+      "value": "SG",
+      "label": "Singapore"
+    },
+    {
+      "value": "SI",
+      "label": "Slovenia"
+    },
+    {
+      "value": "SK",
+      "label": "Slovakia"
+    },
+    {
+      "value": "TH",
+      "label": "Thailand"
+    },
+    {
+      "value": "TL",
+      "label": "East Timor"
+    },
+    {
+      "value": "TN",
+      "label": "Tunisia"
+    },
+    {
+      "value": "TR",
+      "label": "Turkey"
+    },
+    {
+      "value": "UA",
+      "label": "Ukraine"
+    },
+    {
+      "value": "UY",
+      "label": "Uruguay"
+    },
+    {
+      "value": "VN",
+      "label": "Viet Nam"
+    },
+    {
+      "value": "ZA",
+      "label": "South Africa"
+    },
+    {
+      "value": "BN",
+      "label": "Brunei"
+    },
+    {
+      "value": "SV",
+      "label": "Salvador"
+    },
+    {
+      "value": "EC",
+      "label": "Ecuador"
+    }
+  ]
+}

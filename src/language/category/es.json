@@ -1,0 +1,1400 @@
+{
+  "list": [
+    {
+      "icon": "icon-a-1",
+      "name": "Ropa",
+      "categoryID": "1016510166312",
+      "children": [
+        {
+          "name": "Ropa De Mujer",
+          "categoryID": "10166",
+          "children": [
+            {
+              "name": "Vaqueros De Mujer",
+              "categoryID": "1031869"
+            },
+            {
+              "name": "Vestidos",
+              "categoryID": "1031910"
+            },
+            {
+              "name": "Faldas",
+              "categoryID": "1031912"
+            },
+            {
+              "name": "Camisas De Mujer",
+              "categoryID": "1031918"
+            },
+            {
+              "name": "Camisetas De Mujer",
+              "categoryID": "1031919"
+            },
+            {
+              "name": "Chaleco Pequeño/Suspensión/Camiseta De Tirantes",
+              "categoryID": "1031920"
+            },
+            {
+              "name": "Sudadera De Mujer",
+              "categoryID": "1037021"
+            },
+            {
+              "name": "Chaqueta De Cuero De Mujer",
+              "categoryID": "1037019"
+            },
+            {
+              "name": "Traje Pequeño",
+              "categoryID": "1037020"
+            },
+            {
+              "name": "Traje Informal Elegante",
+              "categoryID": "1048256"
+            },
+            {
+              "name": "Chaleco De Mujer",
+              "categoryID": "1036617"
+            },
+            {
+              "name": "Jersey De Mujer",
+              "categoryID": "125746001"
+            },
+            {
+              "name": "Pantalón Casual De Mujer",
+              "categoryID": "125748001"
+            },
+            {
+              "name": "Camisa De Encaje",
+              "categoryID": "1048182"
+            },
+            {
+              "name": "Chaqueta De Lana Para Mujer",
+              "categoryID": "125420001"
+            },
+            {
+              "name": "Chaquetas/Uniformes De Béisbol Para Mujer",
+              "categoryID": "125750002"
+            },
+            {
+              "name": "Ropa De Maternidad",
+              "categoryID": "122196004"
+            },
+            {
+              "name": "Vestido/Vestido De Novia/Cheongsam",
+              "categoryID": "125740002"
+            },
+            {
+              "name": "Ropa De Tallas Grandes Para Mujer",
+              "categoryID": "127372010"
+            },
+            {
+              "name": "Ropa De Protección Solar Para Mujer",
+              "categoryID": "201195601"
+            },
+            {
+              "name": "Uniformes De Trabajo",
+              "categoryID": "201548401"
+            },
+            {
+              "name": "Ropa Para Espectáculos",
+              "categoryID": "201548501"
+            },
+            {
+              "name": "Ropa De Pareja",
+              "categoryID": "201548601"
+            },
+            {
+              "name": "Traje De Señora",
+              "categoryID": "201548801"
+            },
+            {
+              "name": "Chaqueta De Mujer",
+              "categoryID": "127360010"
+            },
+            {
+              "name": "Chándal De Mujer",
+              "categoryID": "201547109"
+            },
+            {
+              "name": "Mono De Mujer",
+              "categoryID": "201325101"
+            },
+            {
+              "name": "Chaqueta De Algodón Para Mujer",
+              "categoryID": "127420001"
+            },
+            {
+              "name": "Chaqueta Vaquera De Mujer",
+              "categoryID": "201560705"
+            },
+            {
+              "name": "Pantalones Cortos De Mujer",
+              "categoryID": "201585902"
+            },
+            {
+              "name": "Leggings De Mujer",
+              "categoryID": "127380008"
+            },
+            {
+              "name": "Prendas De Punto Para Mujer",
+              "categoryID": "127386001"
+            },
+            {
+              "name": "Trajes Nacionales Internacionales",
+              "categoryID": "201158403"
+            },
+            {
+              "name": "Ropa/Accesorios De Animación",
+              "categoryID": "201217707"
+            },
+            {
+              "name": "Chaqueta De Mujer",
+              "categoryID": "319"
+            },
+            {
+              "name": "Liquidación De Mujer",
+              "categoryID": "201723506"
+            },
+            {
+              "name": "Hanfu",
+              "categoryID": "202041302"
+            },
+            {
+              "name": "Abrigo",
+              "categoryID": "304"
+            },
+            {
+              "name": "Ropa De Mujer De Mediana Edad Y Mayores",
+              "categoryID": "202025703"
+            }
+          ]
+        },
+        {
+          "name": "Ropa De Hombre",
+          "categoryID": "10165",
+          "children": [
+            {
+              "name": "Chaqueta De Plumas Para Hombre",
+              "categoryID": "1034163"
+            },
+            {
+              "name": "Vaqueros De Hombre",
+              "categoryID": "1031888"
+            },
+            {
+              "name": "Pantalones De Hombre",
+              "categoryID": "1031889"
+            },
+            {
+              "name": "Pantalones Casual Hombre",
+              "categoryID": "1031890"
+            },
+            {
+              "name": "Ropa De Hombre De Algodón Acolchado",
+              "categoryID": "1031892"
+            },
+            {
+              "name": "Chaqueta De Hombre",
+              "categoryID": "1031897"
+            },
+            {
+              "name": "Sudadera De Hombre",
+              "categoryID": "1036995"
+            },
+            {
+              "name": "Pantalones Cortos De Playa Para Hombre",
+              "categoryID": "1036996"
+            },
+            {
+              "name": "Traje Zhongshan Para Hombre",
+              "categoryID": "1042833"
+            },
+            {
+              "name": "Polo De Hombre",
+              "categoryID": "122232007"
+            },
+            {
+              "name": "Chaqueta De Cuero Para Hombre",
+              "categoryID": "123694002"
+            },
+            {
+              "name": "Chaqueta De Hombre",
+              "categoryID": "122194006"
+            },
+            {
+              "name": "Jersey De Hombre",
+              "categoryID": "123650006"
+            },
+            {
+              "name": "Conjunto Deportivo Casual Para Hombre",
+              "categoryID": "122238007"
+            },
+            {
+              "name": "Ropa De Trabajo/Uniformes",
+              "categoryID": "124450001"
+            },
+            {
+              "name": "Chaleco De Hombre",
+              "categoryID": "122196008"
+            },
+            {
+              "name": "Uniforme De Béisbol Para Hombre",
+              "categoryID": "123688001"
+            },
+            {
+              "name": "Traje De Hombre",
+              "categoryID": "123694001"
+            },
+            {
+              "name": "Ropa De Protección Solar Para Hombre",
+              "categoryID": "127422009"
+            },
+            {
+              "name": "Pantalones De Lana Para Hombre",
+              "categoryID": "201559512"
+            },
+            {
+              "name": "Ropa De Hombre Oversize",
+              "categoryID": "201470102"
+            },
+            {
+              "name": "Ropa Anime Y Otaku",
+              "categoryID": "201546513"
+            },
+            {
+              "name": "Pantalones Cortos De Hombre",
+              "categoryID": "201561908"
+            },
+            {
+              "name": "Pantalones De Chándal Para Hombre",
+              "categoryID": "201465302"
+            },
+            {
+              "name": "Pantalones De Cuero Para Hombre",
+              "categoryID": "127446001"
+            },
+            {
+              "name": "Camisas De Hombre",
+              "categoryID": "314"
+            },
+            {
+              "name": "Camisetas De Hombre",
+              "categoryID": "315"
+            },
+            {
+              "name": "Chaqueta De Hombre",
+              "categoryID": "317"
+            }
+          ]
+        },
+        {
+          "name": "Ropa Interior",
+          "categoryID": "312",
+          "children": [
+            {
+              "name": "Medias",
+              "categoryID": "1043349"
+            },
+            {
+              "name": "Ligueros",
+              "categoryID": "122528003"
+            },
+            {
+              "name": "Sujetadores",
+              "categoryID": "124188007"
+            },
+            {
+              "name": "Ropa Interior Femenina",
+              "categoryID": "122450001"
+            },
+            {
+              "name": "Mangas Frías De Seda",
+              "categoryID": "122478003"
+            },
+            {
+              "name": "Ropa Moldeadora",
+              "categoryID": "122484001"
+            },
+            {
+              "name": "Ropa Interior Ligera",
+              "categoryID": "122450002"
+            },
+            {
+              "name": "Pijamas",
+              "categoryID": "122500001"
+            },
+            {
+              "name": "Ropa Interior Térmica",
+              "categoryID": "122558002"
+            },
+            {
+              "name": "Medias/Leggings De Seda",
+              "categoryID": "201909602"
+            },
+            {
+              "name": "Ropa Interior Masculina",
+              "categoryID": "201835213"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-2",
+      "name": "Zapatos, Bolsos Y Joyas",
+      "categoryID": "1038378104295454",
+      "children": [
+        {
+          "name": "Accesorios",
+          "categoryID": "54",
+          "children": [
+            {
+              "name": "Accesorios De Vestir",
+              "categoryID": "1045423"
+            },
+            {
+              "name": "Expositores De Joyas",
+              "categoryID": "1044138"
+            },
+            {
+              "name": "Pendientes",
+              "categoryID": "122704002"
+            },
+            {
+              "name": "Ropa",
+              "categoryID": "122322004"
+            },
+            {
+              "name": "Collares",
+              "categoryID": "122322005"
+            },
+            {
+              "name": "Joyería De Mano",
+              "categoryID": "122706003"
+            },
+            {
+              "name": "Relojes",
+              "categoryID": "124268003"
+            },
+            {
+              "name": "Joyas Con Piercing",
+              "categoryID": "201231105"
+            },
+            {
+              "name": "Bisutería Infantil",
+              "categoryID": "201149004"
+            },
+            {
+              "name": "Gorros, Bufandas, Guantes Y Accesorios Infantiles",
+              "categoryID": "201564422"
+            },
+            {
+              "name": "Colgantes De Bisutería",
+              "categoryID": "201308926"
+            },
+            {
+              "name": "Gorro/Pañuelo",
+              "categoryID": "127464010"
+            },
+            {
+              "name": "Guantes/Manguitos",
+              "categoryID": "127484008"
+            },
+            {
+              "name": "Accesorios Para El Pecho",
+              "categoryID": "201220505"
+            },
+            {
+              "name": "Bufandas/Pañuelos De Seda/Trajes De Sol",
+              "categoryID": "127508004"
+            },
+            {
+              "name": "Conjuntos De Bisutería",
+              "categoryID": "1746"
+            },
+            {
+              "name": "Accesorios Para La Cabeza",
+              "categoryID": "1752"
+            },
+            {
+              "name": "Accesorios Para La Espalda",
+              "categoryID": "201228407"
+            },
+            {
+              "name": "Accesorios Para El Cuello",
+              "categoryID": "127462009"
+            },
+            {
+              "name": "Mascarillas",
+              "categoryID": "201152912"
+            },
+            {
+              "name": "Accesorios De Bisutería Semiacabados",
+              "categoryID": "201233908"
+            },
+            {
+              "name": "Gafas Y Accesorios",
+              "categoryID": "80"
+            }
+          ]
+        },
+        {
+          "name": "Bolsos Y Marroquinería",
+          "categoryID": "1042954",
+          "children": [
+            {
+              "name": "Bolsa De Viaje",
+              "categoryID": "10283"
+            },
+            {
+              "name": "Bolsa Momia",
+              "categoryID": "1043801"
+            },
+            {
+              "name": "Bolsos De Hombre",
+              "categoryID": "121658001"
+            },
+            {
+              "name": "Cartera",
+              "categoryID": "122228002"
+            },
+            {
+              "name": "Neceseres",
+              "categoryID": "125728001"
+            },
+            {
+              "name": "Bolsas De Viaje",
+              "categoryID": "122216001"
+            },
+            {
+              "name": "Bolsos De Mujer",
+              "categoryID": "124016002"
+            },
+            {
+              "name": "Bolsas Para Móviles",
+              "categoryID": "127406010"
+            },
+            {
+              "name": "Bolsas Para Niños",
+              "categoryID": "126128002"
+            },
+            {
+              "name": "Bolsas Para Ordenador",
+              "categoryID": "201548701"
+            },
+            {
+              "name": "Bolsas Para Accesorios",
+              "categoryID": "127278005"
+            },
+            {
+              "name": "Bolsas Digitales",
+              "categoryID": "127398006"
+            },
+            {
+              "name": "Bolsas De Deporte",
+              "categoryID": "201545602"
+            },
+            {
+              "name": "Bolsas De Estudiante",
+              "categoryID": "201551616"
+            },
+            {
+              "name": "Bolsas Casual Para Niños",
+              "categoryID": "201556615"
+            },
+            {
+              "name": "Pequeña Bolsa Funcional",
+              "categoryID": "201997401"
+            },
+            {
+              "name": "Bandolera",
+              "categoryID": "201956604"
+            }
+          ]
+        },
+        {
+          "name": "Zapatos",
+          "categoryID": "1038378",
+          "children": [
+            {
+              "name": "Accesorios De Zapato",
+              "categoryID": "125730003"
+            },
+            {
+              "name": "Zapatos Para Niños, Zapatos Para Bebés",
+              "categoryID": "125386001"
+            },
+            {
+              "name": "Zapatos De Mujer",
+              "categoryID": "125372002"
+            },
+            {
+              "name": "Zapatos Para El Hogar",
+              "categoryID": "125312003"
+            },
+            {
+              "name": "Zapatos De Hombre",
+              "categoryID": "126506004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-3",
+      "name": "Deportes Al Aire Libre",
+      "categoryID": "18",
+      "children": [
+        {
+          "name": "Deportes Al Aire Libre",
+          "categoryID": "18",
+          "children": [
+            {
+              "name": "Baloncesto Suministros",
+              "categoryID": "1044810"
+            },
+            {
+              "name": "Suministros Para Bádminton Y Tenis",
+              "categoryID": "1044819"
+            },
+            {
+              "name": "Suministros Para Tenis De Mesa",
+              "categoryID": "1044825"
+            },
+            {
+              "name": "Material Para Deportes De Vadeo",
+              "categoryID": "1044740"
+            },
+            {
+              "name": "Cronometraje Y Cuenta Pasos",
+              "categoryID": "1044780"
+            },
+            {
+              "name": "Patines De Hielo, Patines De Ruedas, Monopatines",
+              "categoryID": "1044794"
+            },
+            {
+              "name": "Material De Yoga",
+              "categoryID": "1044713"
+            },
+            {
+              "name": "Material De Billar",
+              "categoryID": "1044642"
+            },
+            {
+              "name": "Material De Pesca",
+              "categoryID": "1044658"
+            },
+            {
+              "name": "Artes Marciales, Uniformes",
+              "categoryID": "1048021"
+            },
+            {
+              "name": "Artículos De Natación",
+              "categoryID": "1048023"
+            },
+            {
+              "name": "Artículos De Fútbol",
+              "categoryID": "122226003"
+            },
+            {
+              "name": "Productos Auxiliares Deporte Y Aire Libre",
+              "categoryID": "121898001"
+            },
+            {
+              "name": "Calzado De Exterior",
+              "categoryID": "121900002"
+            },
+            {
+              "name": "Artículos De Voleibol",
+              "categoryID": "122248001"
+            },
+            {
+              "name": "Piezas De Equitación",
+              "categoryID": "122098001"
+            },
+            {
+              "name": "Gafas De Exterior",
+              "categoryID": "122648001"
+            },
+            {
+              "name": "Ropa Deportiva",
+              "categoryID": "1048069"
+            },
+            {
+              "name": "Ropa Exterior",
+              "categoryID": "1048070"
+            },
+            {
+              "name": "Calzado Deportivo",
+              "categoryID": "121876002"
+            },
+            {
+              "name": "Ropa De Ciclismo",
+              "categoryID": "201564924"
+            },
+            {
+              "name": "Artículos De Golf",
+              "categoryID": "2005"
+            },
+            {
+              "name": "Material De Esquí",
+              "categoryID": "2013"
+            },
+            {
+              "name": "Material Y Suministros De Gimnasia",
+              "categoryID": "2009"
+            },
+            {
+              "name": "Material De Protección Deportiva",
+              "categoryID": "2040"
+            },
+            {
+              "name": "Material De Montaña Y Camping",
+              "categoryID": "281904"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-4",
+      "name": "Niños Y Bebés",
+      "categoryID": "31115011813",
+      "children": [
+        {
+          "name": "Ropa Infantil",
+          "categoryID": "311",
+          "children": [
+            {
+              "name": "Calcetines Para Niños",
+              "categoryID": "1043351"
+            },
+            {
+              "name": "Monos De Escalada",
+              "categoryID": "1037003"
+            },
+            {
+              "name": "Pantalones Para Niños",
+              "categoryID": "1037004"
+            },
+            {
+              "name": "Chaqueta Acolchada De Algodón Para Niños",
+              "categoryID": "1037006"
+            },
+            {
+              "name": "Prendas De Punto Para Niños",
+              "categoryID": "1037009"
+            },
+            {
+              "name": "Jersey De Niño",
+              "categoryID": "1037010"
+            },
+            {
+              "name": "Camisa De Niño",
+              "categoryID": "1037011"
+            },
+            {
+              "name": "Camiseta De Niño",
+              "categoryID": "1037012"
+            },
+            {
+              "name": "Sudadera De Niño",
+              "categoryID": "1042840"
+            },
+            {
+              "name": "Chaleco De Niño",
+              "categoryID": "1042841"
+            },
+            {
+              "name": "Traje De Niño",
+              "categoryID": "1037192"
+            },
+            {
+              "name": "Ropa Para Padre E Hijo",
+              "categoryID": "1037039"
+            },
+            {
+              "name": "Caja Regalo Bebé",
+              "categoryID": "122698004"
+            },
+            {
+              "name": "Chaleco/Top Portabebés De Niño",
+              "categoryID": "1048174"
+            },
+            {
+              "name": "Ropa De Cama Infantil",
+              "categoryID": "122380006"
+            },
+            {
+              "name": "Leggings Para Niños",
+              "categoryID": "127430003"
+            },
+            {
+              "name": "Jersey De Niño",
+              "categoryID": "127430004"
+            },
+            {
+              "name": "Vaqueros Para Niños",
+              "categoryID": "201387101"
+            },
+            {
+              "name": "Polo Para Niños",
+              "categoryID": "201554412"
+            },
+            {
+              "name": "Ropa De Deporte/Exterior Para Niños",
+              "categoryID": "127420011"
+            },
+            {
+              "name": "Cheongsam/Traje De Chaqueta/Traje Nacional Para Niños",
+              "categoryID": "201545714"
+            },
+            {
+              "name": "Falda Para Niños",
+              "categoryID": "201546613"
+            },
+            {
+              "name": "Bolsa Para Niños",
+              "categoryID": "127164001"
+            },
+            {
+              "name": "Chaqueta Infantil/Forro De Plumas",
+              "categoryID": "201552814"
+            },
+            {
+              "name": "Ropa De Casa Para Niños",
+              "categoryID": "201552907"
+            },
+            {
+              "name": "Chaqueta De Niño",
+              "categoryID": "201551614"
+            },
+            {
+              "name": "Bragas De Niño",
+              "categoryID": "127496001"
+            },
+            {
+              "name": "Ropa De Campus",
+              "categoryID": "202030801"
+            }
+          ]
+        },
+        {
+          "name": "Juguetes",
+          "categoryID": "1813",
+          "children": [
+            {
+              "name": " Juguetes Tradicionales",
+              "categoryID": "1045520"
+            },
+            {
+              "name": "Juguetes Para Bebés",
+              "categoryID": "122984013"
+            },
+            {
+              "name": "Juguetes Electrónicos/Iluminados",
+              "categoryID": "124022002"
+            },
+            {
+              "name": "Juguetes Hinchables",
+              "categoryID": "1048131"
+            },
+            {
+              "name": "Juguetes Eléctricos/Mando A Distancia",
+              "categoryID": "122962001"
+            },
+            {
+              "name": "Cochecitos",
+              "categoryID": "122962004"
+            },
+            {
+              "name": "Juguetes Para Casitas",
+              "categoryID": "122962011"
+            },
+            {
+              "name": "Muñecas",
+              "categoryID": "122988002"
+            },
+            {
+              "name": "Maquetas",
+              "categoryID": "181302"
+            },
+            {
+              "name": "Juguetes Educativos, Científicos Y Didácticos",
+              "categoryID": "181309"
+            },
+            {
+              "name": "Juguetes De Juego",
+              "categoryID": "127000088"
+            },
+            {
+              "name": "Bloques De Construcción Y Juguetes Enchufables",
+              "categoryID": "127002083"
+            },
+            {
+              "name": "Muñecas De Peluche/Tejido",
+              "categoryID": "201161304"
+            }
+          ]
+        },
+        {
+          "name": "Productos Para Bebés",
+          "categoryID": "1501",
+          "children": [
+            {
+              "name": "Pañales Y Toallitas Húmedas",
+              "categoryID": "122372005"
+            },
+            {
+              "name": "Seguridad/Protección/Recuerdo",
+              "categoryID": "124952001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-5",
+      "name": "Decoración Del Hogar",
+      "categoryID": "961513",
+      "children": [
+        {
+          "name": "Textiles",
+          "categoryID": "96",
+          "children": [
+            {
+              "name": "Decoración De Pared",
+              "categoryID": "1043469"
+            },
+            {
+              "name": "Textiles Para Bebés",
+              "categoryID": "121188018"
+            },
+            {
+              "name": "Reloj",
+              "categoryID": "124282001"
+            },
+            {
+              "name": "Textiles Para Hoteles",
+              "categoryID": "121186015"
+            },
+            {
+              "name": "Núcleo De Edredón",
+              "categoryID": "123084001"
+            },
+            {
+              "name": "Nevera De Verano",
+              "categoryID": "123084002"
+            },
+            {
+              "name": "Funda De Almohada",
+              "categoryID": "123086001"
+            },
+            {
+              "name": "Cuadros Decorativos",
+              "categoryID": "127926016"
+            },
+            {
+              "name": "Toalla, Toalla De Cara",
+              "categoryID": "127926017"
+            },
+            {
+              "name": "Toalla Desechable",
+              "categoryID": "201148907"
+            },
+            {
+              "name": "Mantas",
+              "categoryID": "127870016"
+            },
+            {
+              "name": "Textiles Para El Hogar",
+              "categoryID": "127894012"
+            },
+            {
+              "name": "Toallas De Baño",
+              "categoryID": "127874019"
+            },
+            {
+              "name": "Adornos Creativos",
+              "categoryID": "127888009"
+            },
+            {
+              "name": "Marcos Decorativos",
+              "categoryID": "1906"
+            },
+            {
+              "name": "Toalla Funcional",
+              "categoryID": "127900015"
+            },
+            {
+              "name": "Decoración",
+              "categoryID": "1704"
+            }
+          ]
+        },
+        {
+          "name": "Decoración Del Hogar",
+          "categoryID": "13",
+          "children": [
+            {
+              "name": "Herrajes Para Puertas Y Ventanas",
+              "categoryID": "1032415"
+            },
+            {
+              "name": "Accesorios De Fontanería",
+              "categoryID": "1032416"
+            },
+            {
+              "name": "Muebles De Salón",
+              "categoryID": "1043661"
+            },
+            {
+              "name": "Mobiliario Comercial De Oficina",
+              "categoryID": "1045579"
+            },
+            {
+              "name": "Muebles De Ocio De Exterior",
+              "categoryID": "122796003"
+            },
+            {
+              "name": "Mobiliario De Cocina Y Baño",
+              "categoryID": "122374009"
+            },
+            {
+              "name": "Sanitarios",
+              "categoryID": "122384004"
+            },
+            {
+              "name": "Accesorios Para Muebles",
+              "categoryID": "1346"
+            },
+            {
+              "name": "Cerraduras",
+              "categoryID": "3010"
+            }
+          ]
+        },
+        {
+          "name": "Necesidades Diarias",
+          "categoryID": "15",
+          "children": [
+            {
+              "name": "Suministros Para Hoteles",
+              "categoryID": "1045268"
+            },
+            {
+              "name": "Sol Y Lluvia",
+              "categoryID": "124016003"
+            },
+            {
+              "name": "Adhesivos/Estufas/Productos De Calefacción",
+              "categoryID": "201664803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-6",
+      "name": "Iluminación",
+      "categoryID": "58",
+      "children": [
+        {
+          "name": "Iluminación",
+          "categoryID": "58",
+          "children": [
+            {
+              "name": "Luminarias De Exterior",
+              "categoryID": "10217"
+            },
+            {
+              "name": "Lámparas E Iluminación",
+              "categoryID": "10220"
+            },
+            {
+              "name": "Lámparas Indicadoras",
+              "categoryID": "1034967"
+            },
+            {
+              "name": "Luz De Linterna",
+              "categoryID": "124268005"
+            },
+            {
+              "name": "Fuente De Luz Independiente",
+              "categoryID": "121192010"
+            },
+            {
+              "name": "Pantalla LED",
+              "categoryID": "123612008"
+            },
+            {
+              "name": "OLED",
+              "categoryID": "123612012"
+            },
+            {
+              "name": "LED Luces De Cuerda",
+              "categoryID": "201303723"
+            },
+            {
+              "name": "Lámpara De Mesa Luz Nocturna",
+              "categoryID": "1330"
+            },
+            {
+              "name": "Iluminación Comercial",
+              "categoryID": "201270263"
+            },
+            {
+              "name": "Sin Iluminación Principal",
+              "categoryID": "201903201"
+            },
+            {
+              "name": "Lámpara De Descarga De Gas",
+              "categoryID": "527"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-7",
+      "name": "Oficina Y Festival",
+      "categoryID": "67",
+      "children": [
+        {
+          "name": "Oficina Y Cultura",
+          "categoryID": "67",
+          "children": [
+            {
+              "name": "Artesanía",
+              "categoryID": "1044181"
+            },
+            {
+              "name": "Utensilios De Navidad",
+              "categoryID": "122196001"
+            },
+            {
+              "name": "Accesorios Principales",
+              "categoryID": "125492003"
+            },
+            {
+              "name": "Periféricos Anime/Películas/Estrellas",
+              "categoryID": "201303011"
+            },
+            {
+              "name": "Regalos Creativos",
+              "categoryID": "201305307"
+            },
+            {
+              "name": "Suministros Para Festivales",
+              "categoryID": "1702"
+            },
+            {
+              "name": "Suministros Financieros",
+              "categoryID": "2121"
+            },
+            {
+              "name": "Material De Oficina",
+              "categoryID": "2122"
+            },
+            {
+              "name": "Materiales De Arte, Caligrafía Y Dibujo",
+              "categoryID": "2127"
+            },
+            {
+              "name": "Material De Exposición",
+              "categoryID": "2129"
+            },
+            {
+              "name": "Material De Oficina",
+              "categoryID": "2111"
+            },
+            {
+              "name": "Papel De Oficina",
+              "categoryID": "2112"
+            },
+            {
+              "name": "Encuadernación, Encolado, Material De Escritorio",
+              "categoryID": "2113"
+            },
+            {
+              "name": "Útiles De Escritura",
+              "categoryID": "81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-8",
+      "name": "Mascotas Y Jardinería",
+      "categoryID": "122916001",
+      "children": [
+        {
+          "name": "Mascotas Y Jardinería",
+          "categoryID": "122916001",
+          "children": [
+            {
+              "name": "Productos De Higiene Y Limpieza Para Perros Y Gatos",
+              "categoryID": "121850001"
+            },
+            {
+              "name": "Macetas",
+              "categoryID": "125496001"
+            },
+            {
+              "name": "Artículos Para Pequeños Animales De Compañía",
+              "categoryID": "121814002"
+            },
+            {
+              "name": "Suministros Para Perros Y Gatos",
+              "categoryID": "121828001"
+            },
+            {
+              "name": "Ropa Y Accesorios Para Animales De Compañía",
+              "categoryID": "201305503"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-9",
+      "name": "Belleza Y Cuidado De La Piel",
+      "categoryID": "97130822220",
+      "children": [
+        {
+          "name": "Belleza/Maquillaje",
+          "categoryID": "97",
+          "children": [
+            {
+              "name": "Productos Para Uñas",
+              "categoryID": "1043162"
+            },
+            {
+              "name": "Herramientas De Belleza",
+              "categoryID": "1043171"
+            },
+            {
+              "name": "Cuidado Facial",
+              "categoryID": "1042634"
+            },
+            {
+              "name": "Cuidado Labial",
+              "categoryID": "1043498"
+            },
+            {
+              "name": "Cuidado De La Piel Masculina",
+              "categoryID": "121702001"
+            },
+            {
+              "name": "Maquillaje De Labios",
+              "categoryID": "201304705"
+            },
+            {
+              "name": "Herramientas De Belleza",
+              "categoryID": "201307015"
+            },
+            {
+              "name": "Aromaterapia Con Aceites Esenciales",
+              "categoryID": "201309707"
+            },
+            {
+              "name": "Esencias Faciales",
+              "categoryID": "201308310"
+            },
+            {
+              "name": "Maquillaje De Ojos",
+              "categoryID": "201307604"
+            },
+            {
+              "name": "Perfume",
+              "categoryID": "201303115"
+            },
+            {
+              "name": "Cuidado De Los Ojos",
+              "categoryID": "201303117"
+            },
+            {
+              "name": "Máscara De Pestañas",
+              "categoryID": "201308710"
+            },
+            {
+              "name": "Maquillaje Facial",
+              "categoryID": "82101"
+            }
+          ]
+        },
+        {
+          "name": "Cuidado Personal/Limpieza Del Hogar",
+          "categoryID": "130822220",
+          "children": [
+            {
+              "name": "Productos Para El Cabello",
+              "categoryID": "10313"
+            },
+            {
+              "name": "Cuidado Del Suelo",
+              "categoryID": "122278002"
+            },
+            {
+              "name": "Cuidado Bucal",
+              "categoryID": "122268004"
+            },
+            {
+              "name": "Pelucas",
+              "categoryID": "122338008"
+            },
+            {
+              "name": "Productos Aromáticos Desodorantes",
+              "categoryID": "122194007"
+            },
+            {
+              "name": "Limpiadores De Cocina Y Aseo",
+              "categoryID": "122212003"
+            },
+            {
+              "name": "Productos Para La Limpieza De La Ropa",
+              "categoryID": "122196011"
+            },
+            {
+              "name": "Productos De Limpieza Del Hogar",
+              "categoryID": "122262003"
+            },
+            {
+              "name": "Toallas De Papel",
+              "categoryID": "1513"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-10",
+      "name": "Electrodomésticos Digitales/Hogar",
+      "categoryID": "76",
+      "children": [
+        {
+          "name": "Electrodomésticos",
+          "categoryID": "6",
+          "children": [
+            {
+              "name": "Equipos De Audio Y Vídeo",
+              "categoryID": "1047104"
+            },
+            {
+              "name": "Electrodomésticos Para Dos Estaciones",
+              "categoryID": "1047981"
+            },
+            {
+              "name": "Equipos De Protección Individual",
+              "categoryID": "123610009"
+            },
+            {
+              "name": "Electrodomésticos De Maternidad Y Para Niños",
+              "categoryID": "201571222"
+            },
+            {
+              "name": "Utensilios De Cocina",
+              "categoryID": "653"
+            }
+          ]
+        },
+        {
+          "name": "Tecnología",
+          "categoryID": "7",
+          "children": [
+            {
+              "name": "Accesorios Para Tabletas",
+              "categoryID": "1046688"
+            },
+            {
+              "name": "Accesorios Especiales Apple",
+              "categoryID": "1046693"
+            },
+            {
+              "name": "Accesorios Para Móviles",
+              "categoryID": "1044130"
+            },
+            {
+              "name": "Fotografía Y Accesorios",
+              "categoryID": "124776003"
+            },
+            {
+              "name": "Accesorios Para Teléfonos Móviles",
+              "categoryID": "50911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-11",
+      "name": "Suministros Automotrices",
+      "categoryID": "122916002",
+      "children": [
+        {
+          "name": "Automoción",
+          "categoryID": "122916002",
+          "children": [
+            {
+              "name": "Bombillas",
+              "categoryID": "10108"
+            },
+            {
+              "name": "Accesorios Del Coche",
+              "categoryID": "124014003"
+            },
+            {
+              "name": "Suministros Para El Interior Del Coche",
+              "categoryID": "92"
+            },
+            {
+              "name": "Mantenimiento",
+              "categoryID": "79"
+            },
+            {
+              "name": "Accesorios Para Motos",
+              "categoryID": "3304"
+            },
+            {
+              "name": "Alfombrilla Para Pies",
+              "categoryID": "3307"
+            },
+            {
+              "name": "Acabados/Modificaciones/Accesorios Exteriores",
+              "categoryID": "3308"
+            },
+            {
+              "name": "Seguridad/Emergencia/Conducción Autónoma",
+              "categoryID": "3311"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "icon-a-12",
+      "name": "Suministros Para Adultos",
+      "categoryID": "130823000",
+      "children": [
+        {
+          "name": "Productos Para Adultos",
+          "categoryID": "130823000",
+          "children": [
+            {
+              "name": "Sex Supplies-Suministros Sexuales: ",
+              "categoryID": "126178001"
+            },
+            {
+              "name": "Female Apparatus-Para Mujeres",
+              "categoryID": "126144003"
+            },
+            {
+              "name": "Male Utensils-Para Hombres",
+              "categoryID": "126150002"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

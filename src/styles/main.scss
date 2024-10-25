@@ -1,0 +1,12 @@
+@import './common.scss';
+@import './colors.scss';
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+.page {
+  width: 1560px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
