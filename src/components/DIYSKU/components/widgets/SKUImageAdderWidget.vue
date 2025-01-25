@@ -92,7 +92,7 @@ import { ElMessage } from 'element-plus'
 import SKUImageListWidget from './SKUImageListWidget.vue'
 import SKUImagesDialog from '@/components/DIYSKU/components/dialogs/SKUImagesDialog.vue'
 import SKUDescriptionDialog from '@/components/DIYSKU/components/dialogs/SKUDesciptionDialog.vue'
-import { OSSUploadType, useJSCore } from 'sm-js-core'
+// import { OSSUploadType, useJSCore } from 'sm-js-core'
 import useSelect from '@/components/DIYSKU/hooks/select'
 import designEventBus from '@/components/DIYSKU/service/DesignEventBus'
 import { DESIGN_EVENTS } from '@/components/DIYSKU/service/DesignEvents'
@@ -224,9 +224,10 @@ function getImageSize(
 
 const uploadImg = async (options: any) => {
   try {
-    const { url } = await useJSCore().oss.upload(options.file, {
-      uploadType: OSSUploadType.POD_MATERIAL
-    })
+    // const { url } = await useJSCore().oss.upload(options.file, {
+    //   uploadType: /* OSSUploadType.POD_MATERIAL */ ''
+    // })
+    const { url }  = { url: '' }
     const { width, height } = await getImageSize(url)
     uploadResList.value.push(itemObject(url, width, height))
     ElMessage.success('Upload successful')

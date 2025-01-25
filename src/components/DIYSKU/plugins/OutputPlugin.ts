@@ -1,7 +1,7 @@
 import { fabric } from 'fabric'
 import Editor from '@/components/DIYSKU/service/Editor'
 import { convertStage, downFile } from '@/components/DIYSKU/service/utils'
-import { OSSUploadType, useJSCore } from 'sm-js-core'
+// import { OSSUploadType, useJSCore } from 'sm-js-core'
 
 import {
   backgroundLayerConfig,
@@ -268,9 +268,10 @@ class OutputPlugin implements IPluginTempl {
     // 上传截图到 OSS
     try {
       // console.log('🟧[OutputPlugin] 8 upload to oss')
-      const { url } = await useJSCore().oss.upload(file, {
-        uploadType: OSSUploadType.POD_MATERIAL
-      })
+      // const { url } = await useJSCore().oss.upload(file, {
+      //   uploadType: /* OSSUploadType.POD_MATERIAL */ ''
+      // })
+      const url = ''
       // console.log('🟧[OutputPlugin] 9 ✅url:', url)
       if (complete) {
         complete(url)

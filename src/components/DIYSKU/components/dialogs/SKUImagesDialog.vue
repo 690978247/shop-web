@@ -37,7 +37,7 @@
   </div>
 </template>
 <script setup>
-import { OSSUploadType, useJSCore } from 'sm-js-core'
+// import { OSSUploadType, useJSCore } from 'sm-js-core'
 import SKUImageTab from './SKUImageTab.vue'
 // import { getCommonImages} from '../api'
 import useSelect from '@/components/DIYSKU/hooks/select'
@@ -141,7 +141,8 @@ const addImg = (imgInfo) => {
 }
 const confirmEditImgName = () => {
   _showDialogVisible.value = false
-  const _deepSelectedImgs = useJSCore().obj.deepClone(selectedImgs.value)
+  // const _deepSelectedImgs = useJSCore().obj.deepClone(selectedImgs.value)
+  const _deepSelectedImgs = []
   emit('addSelectedImgs', _deepSelectedImgs)
   selectedImgs.value = []
 }

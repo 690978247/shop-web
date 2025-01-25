@@ -1,5 +1,5 @@
 import { fabric } from 'fabric'
-import { OSSUploadType, useJSCore } from 'sm-js-core'
+// import { OSSUploadType, useJSCore } from 'sm-js-core'
 
 import {
   commonLayerConfig,
@@ -136,9 +136,10 @@ export async function generateImageWithStageData(
   // 上传截图到 OSS
   try {
     console.log('🟢[SkuGenerateImageHelper] 8 upload to oss')
-    const { url } = await useJSCore().oss.upload(file, {
-      uploadType: OSSUploadType.POD_MATERIAL
-    })
+    // const { url } = await useJSCore().oss.upload(file, {
+    //   uploadType: /* OSSUploadType.POD_MATERIAL */ ''
+    // })
+    const url = ''
     console.log('🟢[SkuGenerateImageHelper] 9 ✅url:', url)
     return url // 返回上传后的 URL
   } catch (error) {
@@ -156,9 +157,10 @@ export async function generateOssURLWithBlob(dataURL: string) {
   // 上传截图到 OSS
   try {
     console.log('🟢[SkuGenerateImageHelper] 8 upload to oss')
-    const { url } = await useJSCore().oss.upload(file, {
-      uploadType: OSSUploadType.POD_MATERIAL
-    })
+    // const { url } = await useJSCore().oss.upload(file, {
+    //   uploadType:/*  OSSUploadType.POD_MATERIAL */ ''
+    // })
+    const url = ''
     console.log('🟢[SkuGenerateImageHelper] 9 ✅url:', url)
     return url // 返回上传后的 URL
   } catch (error) {

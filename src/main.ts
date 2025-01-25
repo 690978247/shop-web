@@ -15,7 +15,7 @@ import '@/assets/iconfont/iconfont.css'
 import '@/assets/iconfont/iconfont.js'
 // 使用国际化 vue-i18n
 import I18n from '@/language/index'
-import { JSCoreGlobalConfig } from 'sm-js-core'
+// import { JSCoreGlobalConfig } from 'sm-js-core'
 
 // 注册swiper
 import { register } from 'swiper/element/bundle'
@@ -34,9 +34,9 @@ Object.keys(Icons).forEach((key) => {
 // const Sentry = useSentry()
 // Sentry.init(app)
 
-JSCoreGlobalConfig.getInstance().setOptions({
-  ossBaseUrl: window.location.origin + '/goodsapi'
-})
+// JSCoreGlobalConfig.getInstance().setOptions({
+//   ossBaseUrl: window.location.origin + '/goodsapi'
+// })
 
 //UD强制英语
 localStorage.setItem('language', 'en')
